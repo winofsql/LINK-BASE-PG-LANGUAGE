@@ -7,8 +7,6 @@
     - #### [全てのプロジェクト](https://script.google.com/home/all)
   - ### tool
 
-  | First Header  | Second Header |
-  | ------------- | ------------- |
   | Content Cell  | Content Cell  |
   | Content Cell  | Content Cell  |
 
