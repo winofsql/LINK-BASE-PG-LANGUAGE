@@ -2,7 +2,7 @@
 
 - ### [php](https://www.php.net/manual/ja/)
 - ### [Google Apps Script](https://developers.google.com/apps-script/reference)
-  - ### [スプレッドシート](https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet-app)
+  - #### [スプレッドシート](https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet-app)
 - ### C#
   - [C#入門](https://www.tohoho-web.com/ex/c-sharp.html)
   - [Microsoft C# API](https://learn.microsoft.com/ja-jp/dotnet/api/?view=net-6.0)
