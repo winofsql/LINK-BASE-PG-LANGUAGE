@@ -8,7 +8,7 @@
   - #### [Classroom](https://classroom.google.com/)
   - ### tool
 
-  |   |  |  |
+  |   |  |
   | ------------- | ------------- | 
   | [カレンダー](https://calendar.google.com/calendar) | [翻訳](https://translate.google.co.jp/)  |
 
