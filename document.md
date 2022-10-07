@@ -14,6 +14,7 @@
     - [System](https://learn.microsoft.com/ja-jp/dotnet/api/system?view=net-6.0)
       - [Array](https://learn.microsoft.com/ja-jp/dotnet/api/system.array?view=net-6.0)
         - [Array.Sort メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.array.sort?view=net-6.0)
+          - [SAMPLE](https://replit.com/@sworc/array-sort#Program.cs)
   - [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
   - [Microsoft C# プログラミング ガイド](https://docs.microsoft.com/ja-jp/dotnet/csharp/programming-guide/)
   - [DOBON.NET](http://dobon.net/vb/dotnet/internet/index.html) : ( **VBを含むので注意** )
