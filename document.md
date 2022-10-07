@@ -11,6 +11,8 @@
 - ### C#
   - [C#入門](https://www.tohoho-web.com/ex/c-sharp.html)
   - [Microsoft C# API](https://learn.microsoft.com/ja-jp/dotnet/api/?view=net-6.0)
+    - [System](https://learn.microsoft.com/ja-jp/dotnet/api/system?view=net-6.0)
+      - [Array](https://learn.microsoft.com/ja-jp/dotnet/api/system.array?view=net-6.0)
   - [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
   - [Microsoft C# プログラミング ガイド](https://docs.microsoft.com/ja-jp/dotnet/csharp/programming-guide/)
   - [DOBON.NET](http://dobon.net/vb/dotnet/internet/index.html) : ( **VBを含むので注意** )
