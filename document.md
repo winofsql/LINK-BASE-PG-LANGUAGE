@@ -34,6 +34,8 @@
         - [StreamWriter.WriteLine メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamwriter.writeline?view=net-6.0)
       - [BinaryWriter](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.binarywriter?view=net-6.0)
       - [Directory](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.directory?view=net-6.0)
+    - [**System.Net.Http**](https://learn.microsoft.com/ja-jp/dotnet/api/system.net.http?view=net-6.0)
+      - [HttpClient](https://learn.microsoft.com/ja-jp/dotnet/api/system.net.http.httpclient?view=net-6.0)
   
   - [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
   - [Microsoft C# プログラミング ガイド](https://docs.microsoft.com/ja-jp/dotnet/csharp/programming-guide/)
