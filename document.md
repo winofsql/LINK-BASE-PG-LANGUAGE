@@ -22,16 +22,16 @@
         - [String.Split メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.split?view=net-6.0)
     - [**System.Collections.Generic**](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic?view=net-6.0)
       - [List&lt;T&gt;](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.list-1?view=net-6.0)
-        - [List&lt;T&gt;.Add(T)](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.list-1.add?view=net-6.0)
+        - [List&lt;T&gt;.Add(T) メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.list-1.add?view=net-6.0)
       - [Dictionary&lt;TKey,TValue&gt;](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.dictionary-2?view=net-6.0)
-        - [Dictionary&lt;TKey,TValue&gt;.Add(TKey, TValue)](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.dictionary-2.add?view=net-6.0)
+        - [Dictionary&lt;TKey,TValue&gt;.Add(TKey, TValue) メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.dictionary-2.add?view=net-6.0)
     - [**System.IO**](https://learn.microsoft.com/ja-jp/dotnet/api/system.io?view=net-6.0)
       - [File](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.file?view=net-6.0)
         - [File.Open](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.file.open?view=net-6.0) / [File.Create](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.file.create?view=net-6.0)
       - [StreamReader](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamreader?view=net-6.0) / [StreamWriter](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamwriter?view=net-6.0)
         - [StreamReader.ReadLine メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamreader.readline?view=net-6.0)
         - [StreamReader.ReadToEnd メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamreader.readtoend?view=net-6.0)
-        - [StreamWriter.WriteLine](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamwriter.writeline?view=net-6.0)        - 
+        - [StreamWriter.WriteLine メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamwriter.writeline?view=net-6.0)        - 
   
   - [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
   - [Microsoft C# プログラミング ガイド](https://docs.microsoft.com/ja-jp/dotnet/csharp/programming-guide/)
