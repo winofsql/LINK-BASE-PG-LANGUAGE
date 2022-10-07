@@ -20,7 +20,7 @@
       - [Console](https://learn.microsoft.com/ja-jp/dotnet/api/system.console?view=net-6.0)
       - [String](https://learn.microsoft.com/ja-jp/dotnet/api/system.string?view=net-6.0)
         - [String.Split メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.split?view=net-6.0)
-    - [System.Collections.Generic](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic?view=net-6.0)
+    - [**System.Collections.Generic**](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic?view=net-6.0)
       - [List&lt;T&gt;](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.list-1?view=net-6.0)
         - [List&lt;T&gt;.Add(T)](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.list-1.add?view=net-6.0)
       - [Dictionary&lt;TKey,TValue&gt;](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.dictionary-2?view=net-6.0)
