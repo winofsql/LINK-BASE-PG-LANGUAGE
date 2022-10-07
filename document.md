@@ -15,7 +15,7 @@
       - [Array](https://learn.microsoft.com/ja-jp/dotnet/api/system.array?view=net-6.0)
         - [Array.Sort メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.array.sort?view=net-6.0)
           - [SAMPLE](https://replit.com/@sworc/array-sort#Program.cs)
-        - [Array.ForEach<T>(T[], Action<T>) メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.array.foreach?view=net-6.0)
+        - [Array.ForEach&lt;T&gt;(T[], Action<T>) メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.array.foreach?view=net-6.0)
           - [SAMPLE](https://replit.com/@sworc/array-foreach#Program.cs)
       - [Console](https://learn.microsoft.com/ja-jp/dotnet/api/system.console?view=net-6.0)
       - [String](https://learn.microsoft.com/ja-jp/dotnet/api/system.string?view=net-6.0)
