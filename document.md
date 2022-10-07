@@ -42,6 +42,7 @@
         - [OdbcCommand.ExecuteReader メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbccommand.executereader?view=dotnet-plat-ext-6.0)
       - [OdbcDataReader](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbcdatareader?view=dotnet-plat-ext-6.0)
         - [OdbcDataReader.Read メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbcdatareader.read?view=dotnet-plat-ext-6.0)
+        - [OdbcDataReader.Close メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbcdatareader.close?view=dotnet-plat-ext-6.0)
     - [**System.Data.OleDb**](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.oledb?view=dotnet-plat-ext-6.0)
   
   - [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
