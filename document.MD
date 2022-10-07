@@ -1,6 +1,8 @@
 # ドキュメント
 
 - ### [php](https://www.php.net/manual/ja/)
+- ### [jQuery](https://api.jquery.com/)
+- ### [HTML](http://www.htmq.com/html/)
 - ### [Google Apps Script](https://developers.google.com/apps-script/reference)
   - #### [スプレッドシート](https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet-app)
 - ### C#
