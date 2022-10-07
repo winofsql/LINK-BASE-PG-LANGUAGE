@@ -12,4 +12,5 @@
   | ------------- | ------------- | 
   | [カレンダー](https://calendar.google.com/calendar) | [翻訳](https://translate.google.co.jp/)  |
 
-  - #### [その他](https://github.com/winofsql/link-base/blob/main/online-tool.MD)
+  - #### [オンラインツール](https://github.com/winofsql/link-base/blob/main/online-tool.MD)
+  - #### [ドキュメント]
