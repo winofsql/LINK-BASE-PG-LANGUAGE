@@ -25,6 +25,7 @@
         - [List&lt;T&gt;.Add(T)](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.list-1.add?view=net-6.0)
       - [Dictionary&lt;TKey,TValue&gt;](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.dictionary-2?view=net-6.0)
         - [Dictionary&lt;TKey,TValue&gt;.Add(TKey, TValue)](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.dictionary-2.add?view=net-6.0)
+    - [**System.IO**](https://learn.microsoft.com/ja-jp/dotnet/api/system.io?view=net-6.0)
   
   - [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
   - [Microsoft C# プログラミング ガイド](https://docs.microsoft.com/ja-jp/dotnet/csharp/programming-guide/)
