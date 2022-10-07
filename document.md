@@ -38,7 +38,6 @@
       - [HttpClient](https://learn.microsoft.com/ja-jp/dotnet/api/system.net.http.httpclient?view=net-6.0)
     - [**System.Data.Odbc**](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc?view=dotnet-plat-ext-6.0)
     - [**System.Data.OleDb**](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.oledb?view=dotnet-plat-ext-6.0)
-    - [****]
   
   - [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
   - [Microsoft C# プログラミング ガイド](https://docs.microsoft.com/ja-jp/dotnet/csharp/programming-guide/)
