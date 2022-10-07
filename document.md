@@ -28,6 +28,7 @@
     - [**System.IO**](https://learn.microsoft.com/ja-jp/dotnet/api/system.io?view=net-6.0)
       - [File](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.file?view=net-6.0)
         - [File.Open](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.file.open?view=net-6.0) / [File.Create](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.file.create?view=net-6.0)
+      - [StreamReader](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamreader?view=net-6.0) / [StreamWriter](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamwriter?view=net-6.0)
   
   - [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
   - [Microsoft C# プログラミング ガイド](https://docs.microsoft.com/ja-jp/dotnet/csharp/programming-guide/)
