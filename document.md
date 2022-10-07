@@ -20,6 +20,8 @@
       - [Console](https://learn.microsoft.com/ja-jp/dotnet/api/system.console?view=net-6.0)
       - [String](https://learn.microsoft.com/ja-jp/dotnet/api/system.string?view=net-6.0)
         - [String.Split メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.split?view=net-6.0)
+    - [System.Collections.Generic](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic?view=net-6.0)
+      - [List<T>](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.list-1?view=net-6.0)
   - [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
   - [Microsoft C# プログラミング ガイド](https://docs.microsoft.com/ja-jp/dotnet/csharp/programming-guide/)
   - [DOBON.NET](http://dobon.net/vb/dotnet/internet/index.html) : ( **VBを含むので注意** )
