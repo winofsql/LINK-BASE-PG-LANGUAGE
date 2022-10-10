@@ -33,6 +33,7 @@
       - [StreamReader](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamreader?view=net-6.0) / [StreamWriter](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamwriter?view=net-6.0)
         - [StreamReader.ReadLine メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamreader.readline?view=net-6.0)
         - [StreamReader.ReadToEnd メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamreader.readtoend?view=net-6.0)
+          - [📕 replit SAMPLE](https://replit.com/@sworc/cs-con-text-reader?v=1#Program.cs)
         - [StreamWriter.WriteLine メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamwriter.writeline?view=net-6.0)
         - [📕 replit SAMPLE](https://replit.com/@sworc/cs-con-stream-reader#Program.cs)
       - [BinaryWriter](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.binarywriter?view=net-6.0)
