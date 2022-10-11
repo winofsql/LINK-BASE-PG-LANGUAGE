@@ -67,6 +67,7 @@
           - [📕 replit SAMPLE](https://replit.com/@sworc/cs-con-text-reader?v=1#Program.cs)
       - [BinaryWriter](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.binarywriter?view=net-6.0)
         - [📕 replit SAMPLE](https://replit.com/@sworc/cs-con-binary-writer?v=1#Program.cs)
+        - [📕 replit SAMPLE( use Struct )](https://replit.com/@sworc/cs-binary-struct-writer?v=1#main.cs)
       - [Directory](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.directory?view=net-6.0)
     - [**System.Net.Http**](https://learn.microsoft.com/ja-jp/dotnet/api/system.net.http?view=net-6.0)
       - [HttpClient](https://learn.microsoft.com/ja-jp/dotnet/api/system.net.http.httpclient?view=net-6.0)
