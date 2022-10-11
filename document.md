@@ -20,6 +20,7 @@
 
 - ### [HTML](http://www.htmq.com/html/)
   - [FORM](http://www.htmq.com/html/form.shtml)
+    - [INPUT type="text"](http://www.htmq.com/html/input_text.shtml)
 
 - ### [Google Apps Script](https://developers.google.com/apps-script/reference)
   - [スプレッドシート](https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet-app)
