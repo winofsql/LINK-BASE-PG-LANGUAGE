@@ -1,6 +1,7 @@
 # ドキュメント
-
-[C#](#user-content-c)
+|    |    |
+| -- | -- |
+| [PHP](#user-content-php) | [C#](#user-content-c) |
 
 - ### [php](https://www.php.net/manual/ja/)
   - [スーパーグローバル](https://www.php.net/manual/ja/language.variables.superglobals.php)
