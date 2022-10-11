@@ -16,6 +16,7 @@
 - ### [jQuery](https://api.jquery.com/)
 
 - ### [Document](https://developer.mozilla.org/ja/docs/Web/API/Document)
+  - [getElementById()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
 
 - ### [HTML](http://www.htmq.com/html/)
   - [FORM](http://www.htmq.com/html/form.shtml)
