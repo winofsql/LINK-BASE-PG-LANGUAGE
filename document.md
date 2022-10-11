@@ -5,6 +5,8 @@
   - [文字列](https://www.php.net/manual/ja/language.types.string.php)
     - [String 関数](https://www.php.net/manual/ja/ref.strings.php)
     - [マルチバイト文字列](https://www.php.net/manual/ja/book.mbstring.php)
+  - [ODBC](https://www.php.net/manual/ja/book.uodbc.php)
+  - [PDO](https://www.php.net/manual/ja/book.pdo.php)
 - ### [jQuery](https://api.jquery.com/)
 - ### [HTML](http://www.htmq.com/html/)
 - ### [Google Apps Script](https://developers.google.com/apps-script/reference)
