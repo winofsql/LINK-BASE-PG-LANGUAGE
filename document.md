@@ -14,6 +14,7 @@
   - [正規表現関数( PCRE )](https://www.php.net/manual/ja/ref.pcre.php)
 
 - ### [jQuery](https://api.jquery.com/)
+  - [.val()](https://api.jquery.com/val/)
 
 - ### [Document](https://developer.mozilla.org/ja/docs/Web/API/Document)
   - [getElementById()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
