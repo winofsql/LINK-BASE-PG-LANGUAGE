@@ -20,6 +20,8 @@
 
 - ### [Document](https://developer.mozilla.org/ja/docs/Web/API/Document)
   - [getElementById()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
+  - [getElementsByName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByName)
+  - [getElementsByTagName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByTagName)
 
 - ### [HTML](http://www.htmq.com/html/)
   - [FORM](http://www.htmq.com/html/form.shtml)
