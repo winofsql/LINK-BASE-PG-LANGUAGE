@@ -26,6 +26,8 @@
 - ### [HTML](http://www.htmq.com/html/)
   - [FORM](http://www.htmq.com/html/form.shtml)
     - [INPUT type="text"](http://www.htmq.com/html/input_text.shtml)
+      - [checkbox](http://www.htmq.com/html/input_checkbox.shtml)
+      - [submit](http://www.htmq.com/html/input_submit.shtml)
     - [SELECT](http://www.htmq.com/html/select.shtml)
     - [TEXTAREA](http://www.htmq.com/html/textarea.shtml)
 
