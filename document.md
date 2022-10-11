@@ -1,5 +1,7 @@
 # ドキュメント
 
+[C#](#user-content-c)
+
 - ### [php](https://www.php.net/manual/ja/)
   - [スーパーグローバル](https://www.php.net/manual/ja/language.variables.superglobals.php)
   - [文字列](https://www.php.net/manual/ja/language.types.string.php)
