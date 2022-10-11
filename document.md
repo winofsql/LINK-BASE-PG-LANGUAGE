@@ -22,6 +22,7 @@
   - [getElementById()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
   - [getElementsByName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByName)
   - [getElementsByTagName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByTagName)
+  - [getElementsByClassName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByClassName)
 
 - ### [HTML](http://www.htmq.com/html/)
   - [FORM](http://www.htmq.com/html/form.shtml)
