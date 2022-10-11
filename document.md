@@ -1,7 +1,7 @@
 # ドキュメント
-|  |  |  |
-| -- | -- | -- |
-| [PHP](#user-content-php) | [C#](#user-content-c) | [jQuery](#user-content-jquery)
+|  |  |  |  |  |
+| -- | -- | -- | -- | -- |
+| [PHP](#user-content-php) | [C#](#user-content-c) | [jQuery](#user-content-jquery) | [HTML](#user-content-html) | [GAS]()
 
 - ### [php](https://www.php.net/manual/ja/)
   - [スーパーグローバル](https://www.php.net/manual/ja/language.variables.superglobals.php)
