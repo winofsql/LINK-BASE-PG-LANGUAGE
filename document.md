@@ -15,7 +15,7 @@
 
 - ### [jQuery](https://api.jquery.com/)
 
-- ### [Document]([Document](https://developer.mozilla.org/ja/docs/Web/API/Document)
+- ### [Document](https://developer.mozilla.org/ja/docs/Web/API/Document)
 
 - ### [HTML](http://www.htmq.com/html/)
   - [FORM](http://www.htmq.com/html/form.shtml)
