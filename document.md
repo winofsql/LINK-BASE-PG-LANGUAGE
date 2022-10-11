@@ -2,6 +2,7 @@
 
 - ### [php](https://www.php.net/manual/ja/)
   - [スーパーグローバル](https://www.php.net/manual/ja/language.variables.superglobals.php)
+  - [文字列](https://www.php.net/manual/ja/language.types.string.php)
 - ### [jQuery](https://api.jquery.com/)
 - ### [HTML](http://www.htmq.com/html/)
 - ### [Google Apps Script](https://developers.google.com/apps-script/reference)
