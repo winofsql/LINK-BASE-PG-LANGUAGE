@@ -8,3 +8,4 @@
  | [継承](https://paiza.jp/works/cs/primer/beginner-cs8/21101)   |  [継承](https://paiza.jp/works/java/primer/beginner-java8/5091)   |
  | [オーバーライド](https://paiza.jp/works/cs/primer/beginner-cs8/21102)   | [オーバーライド](https://paiza.jp/works/java/primer/beginner-java8/5093)    |
  | [オーバーロード](https://paiza.jp/works/cs/primer/beginner-cs8/21105)   | [オーバーロード](https://paiza.jp/works/java/primer/beginner-java8/5096)    |
+ | [Dictionaryを作ろう](https://paiza.jp/works/cs/primer/beginner-cs9/22902) | [HashMapを作る](https://paiza.jp/works/java/primer/beginner-java9/5101) |
