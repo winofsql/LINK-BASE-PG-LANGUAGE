@@ -41,6 +41,7 @@
   - [Drive](https://developers.google.com/apps-script/reference/drive/drive-app)
   - [ui](https://developers.google.com/apps-script/reference/base/ui)
     - [showModalDialog(userInterface, title)](https://developers.google.com/apps-script/reference/base/ui#showModalDialog(Object,String))
+      - [HtmlService.createHtmlOutputFromFile()](https://developers.google.com/apps-script/reference/html/html-service#createHtmlOutputFromFile(String))
     - [📘 Github : gas-menu-html-dialog](https://github.com/winofsql/gas-menu-hrml-dialog)
       - [Code.gs](https://github.com/winofsql/gas-menu-html-dialog/blob/main/Code.gs)
       - [use-jquery.html](https://github.com/winofsql/gas-menu-html-dialog/blob/main/use-jquery.html)
