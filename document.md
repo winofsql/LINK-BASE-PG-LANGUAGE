@@ -41,6 +41,8 @@
   - [Drive](https://developers.google.com/apps-script/reference/drive/drive-app)
   - [ui](https://developers.google.com/apps-script/reference/base/ui)
     - [📘 Github : gas-menu-html-dialog](https://github.com/winofsql/gas-menu-hrml-dialog)
+      - [Code.gs](https://github.com/winofsql/gas-menu-html-dialog/blob/main/Code.gs)
+      - [use-jquery.html](https://github.com/winofsql/gas-menu-html-dialog/blob/main/use-jquery.html)
 
 - ### C#
   - [C#入門](https://www.tohoho-web.com/ex/c-sharp.html)
