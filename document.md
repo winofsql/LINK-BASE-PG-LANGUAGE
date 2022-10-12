@@ -40,7 +40,7 @@
   - [Gmail](https://developers.google.com/apps-script/reference/gmail/gmail-app)
   - [Drive](https://developers.google.com/apps-script/reference/drive/drive-app)
   - [ui](https://developers.google.com/apps-script/reference/base/ui)
-    - [📘 Github : gas-menu-hrml-dialog](https://github.com/winofsql/gas-menu-hrml-dialog)
+    - [📘 Github : gas-menu-html-dialog](https://github.com/winofsql/gas-menu-hrml-dialog)
 
 - ### C#
   - [C#入門](https://www.tohoho-web.com/ex/c-sharp.html)
