@@ -46,7 +46,7 @@
     - [getFolderById(id)](https://developers.google.com/apps-script/reference/drive/drive-app#getFolderById(String))
     - [getFileById(id)](https://developers.google.com/apps-script/reference/drive/drive-app#getfilebyidid)
     - [File](https://developers.google.com/apps-script/reference/drive/file)
-      - [moveTo(destination)](https://developers.google.com/apps-script/reference/drive/file#movetodestination)
+      - [moveTo(Folder)](https://developers.google.com/apps-script/reference/drive/file#movetodestination)
   - [ui](https://developers.google.com/apps-script/reference/base/ui)
     - [📘 Github : gas-menu-html-dialog](https://github.com/winofsql/gas-menu-hrml-dialog)
       - [Code.gs](https://github.com/winofsql/gas-menu-html-dialog/blob/main/Code.gs)
