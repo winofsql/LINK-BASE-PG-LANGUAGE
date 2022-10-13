@@ -23,7 +23,7 @@
     - [.css()](https://api.jquery.com/appendTo/)
     - [.prop()](https://api.jquery.com/prop/)
     - [.attr()](https://api.jquery.com/attr/)
-    - [.data()](https://api.jquery.com/data/) ( data-* : ユーザーデータ)
+    - [.data()](https://api.jquery.com/data/) ( data-* : ユーザーデータ )
   - **【要素】**
     - [.appendTo(target)](https://api.jquery.com/appendTo/) ( target 内に追加する ) 
     - [.append()](https://api.jquery.com/append/)
