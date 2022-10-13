@@ -24,7 +24,8 @@
     - [.prop()](https://api.jquery.com/prop/)
     - [.attr()](https://api.jquery.com/attr/)
   - **【要素】**
-    - [.appendTo(target)](https://api.jquery.com/appendTo/) ( target 内に追加する ) / [.append()](https://api.jquery.com/append/)
+    - [.appendTo(target)](https://api.jquery.com/appendTo/) ( target 内に追加する ) 
+    - [.append()](https://api.jquery.com/append/)
   - **【イベント】**
     - [.on("event", handler)](https://api.jquery.com/on/)
     - [.ready()](https://api.jquery.com/ready/)
