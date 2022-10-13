@@ -7,7 +7,7 @@
   - [スーパーグローバル](https://www.php.net/manual/ja/language.variables.superglobals.php)
   - [文字列](https://www.php.net/manual/ja/language.types.string.php)
     - [String 関数](https://www.php.net/manual/ja/ref.strings.php)
-      - [explode](https://www.php.net/manual/ja/function.explode.php)
+      - [explode](https://www.php.net/manual/ja/function.explode.php) ( 文字列を文字列により分割する )
     - [マルチバイト文字列](https://www.php.net/manual/ja/book.mbstring.php)
   - [ODBC](https://www.php.net/manual/ja/book.uodbc.php)
   - [PDO](https://www.php.net/manual/ja/book.pdo.php)
