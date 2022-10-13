@@ -15,14 +15,19 @@
   - [正規表現関数( PCRE )](https://www.php.net/manual/ja/ref.pcre.php)
 
 - ### [jQuery](https://api.jquery.com/)
-  - [.val()](https://api.jquery.com/val/)
-  - [.text()](https://api.jquery.com/text/)
-  - [.html()](https://api.jquery.com/html/)
-  - [.css()](https://api.jquery.com/appendTo/)
-  - [.prop()](https://api.jquery.com/prop/)
-  - [.appendTo(target)](https://api.jquery.com/appendTo/) ( target 内に追加する )
-  - [.on("event", handler)](https://api.jquery.com/on/)
-  - [.ready()](https://api.jquery.com/ready/)
+  - #### 【値】
+    - [.val()](https://api.jquery.com/val/)
+    - [.text()](https://api.jquery.com/text/)
+    - [.html()](https://api.jquery.com/html/)
+  - #### 【属性】
+    - [.css()](https://api.jquery.com/appendTo/)
+    - [.prop()](https://api.jquery.com/prop/)
+    - [.attr()](https://api.jquery.com/attr/)
+  - #### 【要素】
+    - [.appendTo(target)](https://api.jquery.com/appendTo/) ( target 内に追加する )
+  - #### 【イベント】
+    - [.on("event", handler)](https://api.jquery.com/on/)
+    - [.ready()](https://api.jquery.com/ready/)
 
 - ### [Document (JS)](https://developer.mozilla.org/ja/docs/Web/API/Document)
   - [getElementById()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
