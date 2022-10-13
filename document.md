@@ -18,6 +18,7 @@
   - [.val()](https://api.jquery.com/val/)
   - [.text()](https://api.jquery.com/text/)
   - [.html()](https://api.jquery.com/html/)
+  - [.on](https://api.jquery.com/on/)
 
 - ### [Document (JS)](https://developer.mozilla.org/ja/docs/Web/API/Document)
   - [getElementById()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
