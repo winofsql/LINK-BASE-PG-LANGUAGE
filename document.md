@@ -1,7 +1,7 @@
 # ドキュメント
 |  |  |  |  |  |  |  |  |
 | -- | -- | -- | -- | -- | -- | -- | -- |
-| [C#](#user-content-c) | [Java](#user-content-java) | [PHP](#user-content-php) | [jQuery](#user-content-jquery) | [Document](#user-content-document) | [String(JS)](#user-content-string--javascript-) | [HTML](#user-content-html) | [GAS](#user-content-google-apps-script)
+| [C#](#user-content-c) | [Java](#user-content-java) | [PHP](#user-content-php) | [jQuery](#user-content-jquery) | [Document(JS)](#user-content-document) | [String(JS)](#user-content-string--javascript-) | [HTML](#user-content-html) | [GAS](#user-content-google-apps-script)
 
 - ### [php](https://www.php.net/manual/ja/)
   - [スーパーグローバル](https://www.php.net/manual/ja/language.variables.superglobals.php)
@@ -19,14 +19,14 @@
   - [.text()](https://api.jquery.com/text/)
   - [.html()](https://api.jquery.com/html/)
 
-- ### [Document](https://developer.mozilla.org/ja/docs/Web/API/Document)
+- ### [Document(JS)](https://developer.mozilla.org/ja/docs/Web/API/Document)
   - [getElementById()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
   - [getElementsByName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByName)
   - [getElementsByTagName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByTagName)
   - [getElementsByClassName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByClassName)
 
-- ### [String ( javascript )](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String)
-  - [String.prototype.split()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+  - ### [String ( javascript )](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String)
+    - [String.prototype.split()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 
 - ### [HTML](http://www.htmq.com/html/)
   - [FORM](http://www.htmq.com/html/form.shtml)
