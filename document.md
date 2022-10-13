@@ -19,13 +19,13 @@
   - [.text()](https://api.jquery.com/text/)
   - [.html()](https://api.jquery.com/html/)
 
-- ### [Document(JS)](https://developer.mozilla.org/ja/docs/Web/API/Document)
+- ### [Document (JS)](https://developer.mozilla.org/ja/docs/Web/API/Document)
   - [getElementById()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
   - [getElementsByName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByName)
   - [getElementsByTagName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByTagName)
   - [getElementsByClassName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByClassName)
 
-  - ### [String ( javascript )](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String)
+  - ### [String (JS)](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String)
     - [String.prototype.split()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 
 - ### [HTML](http://www.htmq.com/html/)
