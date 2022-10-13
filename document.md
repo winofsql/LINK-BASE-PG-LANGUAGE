@@ -43,6 +43,7 @@
   - [GmailApp](https://developers.google.com/apps-script/reference/gmail/gmail-app)
   - [DriveApp](https://developers.google.com/apps-script/reference/drive/drive-app)
     - [getFolderById(id)](https://developers.google.com/apps-script/reference/drive/drive-app#getFolderById(String))
+    - [getFileById(id)](https://developers.google.com/apps-script/reference/drive/drive-app#getfilebyidid)
   - [ui](https://developers.google.com/apps-script/reference/base/ui)
     - [📘 Github : gas-menu-html-dialog](https://github.com/winofsql/gas-menu-hrml-dialog)
       - [Code.gs](https://github.com/winofsql/gas-menu-html-dialog/blob/main/Code.gs)
