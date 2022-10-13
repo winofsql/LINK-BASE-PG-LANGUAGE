@@ -7,6 +7,7 @@
   - [スーパーグローバル](https://www.php.net/manual/ja/language.variables.superglobals.php)
   - [文字列](https://www.php.net/manual/ja/language.types.string.php)
     - [String 関数](https://www.php.net/manual/ja/ref.strings.php)
+      - [explode](https://www.php.net/manual/ja/function.explode.php)
     - [マルチバイト文字列](https://www.php.net/manual/ja/book.mbstring.php)
   - [ODBC](https://www.php.net/manual/ja/book.uodbc.php)
   - [PDO](https://www.php.net/manual/ja/book.pdo.php)
