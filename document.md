@@ -40,7 +40,7 @@
     - [📘 Github : gas-spreadsheet-action](https://github.com/winofsql/gas-spreadsheet-action)
       - [SpreadsheetApp.create(name)](https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet-app#create(String))
       - [SpreadsheetApp.getUi()](https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet-app#getUi())
-      - [Spreadsheet.getId()](https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet#getid)
+        - [Spreadsheet.getId()](https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet#getid)
   - [GmailApp](https://developers.google.com/apps-script/reference/gmail/gmail-app)
   - [DriveApp](https://developers.google.com/apps-script/reference/drive/drive-app)
     - [getFolderById(id)](https://developers.google.com/apps-script/reference/drive/drive-app#getFolderById(String))
