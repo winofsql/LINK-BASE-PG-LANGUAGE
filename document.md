@@ -25,6 +25,9 @@
   - [getElementsByTagName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByTagName)
   - [getElementsByClassName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByClassName)
 
+- ### [String ( javascript )](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String)
+  - [String.prototype.split()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+
 - ### [HTML](http://www.htmq.com/html/)
   - [FORM](http://www.htmq.com/html/form.shtml)
     - [INPUT type="text"](http://www.htmq.com/html/input_text.shtml)
