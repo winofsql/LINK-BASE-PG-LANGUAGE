@@ -28,6 +28,7 @@
     - [.appendTo(target)](https://api.jquery.com/appendTo/) ( target 内に追加する ) 
     - [.append()](https://api.jquery.com/append/)
     - [.contents()](https://api.jquery.com/contents/) ( iframe 用 )
+    - [.parent()](https://api.jquery.com/parent/) ( １階層 )
   - **【イベント】**
     - [.on("event", handler)](https://api.jquery.com/on/)
     - [.ready()](https://api.jquery.com/ready/)
