@@ -19,6 +19,7 @@
   - [.text()](https://api.jquery.com/text/)
   - [.html()](https://api.jquery.com/html/)
   - [.on("event", handler)](https://api.jquery.com/on/)
+  - [.ready()](https://api.jquery.com/ready/)
 
 - ### [Document (JS)](https://developer.mozilla.org/ja/docs/Web/API/Document)
   - [getElementById()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
