@@ -89,6 +89,7 @@
           - [📕 replit SAMPLE](https://replit.com/@sworc/array-foreach#Program.cs)
         - [Array.IndexOf メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.array.indexof?view=net-6.0)
       - [Console](https://learn.microsoft.com/ja-jp/dotnet/api/system.console?view=net-6.0)
+        - [Console.ReadLine メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.console.readline?view=net-6.0)
       - [Environment](https://learn.microsoft.com/ja-jp/dotnet/api/system.environment?view=net-6.0)
         - [Environment.CurrentDirectory プロパティ](https://learn.microsoft.com/ja-jp/dotnet/api/system.environment.currentdirectory?view=net-6.0)
         - [Environment.GetEnvironmentVariable メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.environment.getenvironmentvariable?view=net-6.0)
