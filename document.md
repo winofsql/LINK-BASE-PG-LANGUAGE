@@ -87,6 +87,7 @@
           - [📕 replit SAMPLE](https://replit.com/@sworc/array-sort#Program.cs)
         - [Array.ForEach&lt;T&gt;(T[], Action&lt;T&gt;) メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.array.foreach?view=net-6.0)
           - [📕 replit SAMPLE](https://replit.com/@sworc/array-foreach#Program.cs)
+        - [Array.IndexOf メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.array.indexof?view=net-6.0)
       - [Console](https://learn.microsoft.com/ja-jp/dotnet/api/system.console?view=net-6.0)
       - [String](https://learn.microsoft.com/ja-jp/dotnet/api/system.string?view=net-6.0)
         - [String.Split メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.split?view=net-6.0) / [String.Join メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.join?view=net-6.0)
