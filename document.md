@@ -10,6 +10,7 @@
       - [explode (split)](https://www.php.net/manual/ja/function.explode.php) ( 文字列を文字列により分割する )
       - [implode (join)](https://www.php.net/manual/ja/function.implode.php)
     - [マルチバイト文字列](https://www.php.net/manual/ja/book.mbstring.php)
+      - [mb_convert_encoding](https://www.php.net/manual/ja/function.mb-convert-encoding.php)
   - [ODBC](https://www.php.net/manual/ja/book.uodbc.php)
   - [PDO](https://www.php.net/manual/ja/book.pdo.php)
   - [日付・時刻 関数](https://www.php.net/manual/ja/ref.datetime.php)
