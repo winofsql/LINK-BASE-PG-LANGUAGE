@@ -148,6 +148,7 @@
   - [Java への道](http://www.javaroad.jp/)
   - [Java(tm) Platform, Standard Edition 8](https://docs.oracle.com/javase/jp/8/docs/api/)
     - [java.lang](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/lang/package-summary.html)
+      - [String](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/lang/String.html)
     - [java.util](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/package-summary.html)
       - [ArrayList&lt;E&gt;](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/ArrayList.html)
         - [インタフェースList&lt;E&gt;](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/List.html)
