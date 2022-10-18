@@ -47,6 +47,9 @@
   - ### [String (JS)](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String)
     - [String.prototype.split()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 
+  - ### [window (JS)](https://developer.mozilla.org/ja/docs/Web/API/Window)
+    - [location](https://developer.mozilla.org/ja/docs/Web/API/Window/location)
+
 - ### [HTML](http://www.htmq.com/html/)
   - [FORM](http://www.htmq.com/html/form.shtml)
     - [INPUT type="text"](http://www.htmq.com/html/input_text.shtml)
