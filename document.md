@@ -45,12 +45,13 @@
     - [getElementsByName(name)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByName)
     - [getElementsByTagName(tagname)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByTagName)
     - [getElementsByClassName(classname)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByClassName)
-  - #### [String](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String)
-    - [String.prototype.split()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 
   - #### [window](https://developer.mozilla.org/ja/docs/Web/API/Window)
     - [location](https://developer.mozilla.org/ja/docs/Web/API/Location)
       - [href](https://developer.mozilla.org/ja/docs/Web/API/Location/href)
+      - 
+  - #### [String](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String)
+    - [String.prototype.split()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 
   - #### [HTMLIFrameElement)](https://developer.mozilla.org/ja/docs/Web/API/HTMLIFrameElement)
     - [contentWindow](https://developer.mozilla.org/ja/docs/Web/API/HTMLIFrameElement/contentWindow)
