@@ -41,14 +41,14 @@
 - ### [Document (JS)](https://developer.mozilla.org/ja/docs/Web/API/Document)
   - [getElementById(id)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById) / [getElementsByName(name)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByName) / [getElementsByTagName(tagname)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByTagName) / [getElementsByClassName(classname)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByClassName)
 
-  - #### [String (JS)](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String)
+  - ### [String (JS)](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String)
     - [String.prototype.split()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 
-  - #### [window (JS)](https://developer.mozilla.org/ja/docs/Web/API/Window)
+  - ### [window (JS)](https://developer.mozilla.org/ja/docs/Web/API/Window)
     - [location](https://developer.mozilla.org/ja/docs/Web/API/Location)
       - [href](https://developer.mozilla.org/ja/docs/Web/API/Location/href)
 
-  - #### [HTMLIFrameElement(JS)](https://developer.mozilla.org/ja/docs/Web/API/HTMLIFrameElement)
+  - ### [HTMLIFrameElement(JS)](https://developer.mozilla.org/ja/docs/Web/API/HTMLIFrameElement)
     - [contentWindow](https://developer.mozilla.org/ja/docs/Web/API/HTMLIFrameElement/contentWindow)
 
 - ### [HTML](http://www.htmq.com/html/)
