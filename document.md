@@ -55,6 +55,7 @@
 
   - #### [RegExp (正規表現)](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
     - [RegExp.$1-$9](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/RegExp/n)
+    - [フラグ](https://javascript.keicode.com/lang/regex-pattern-flags.php)
 
   - #### [HTMLIFrameElement) (IFRAME)](https://developer.mozilla.org/ja/docs/Web/API/HTMLIFrameElement)
     - [contentWindow](https://developer.mozilla.org/ja/docs/Web/API/HTMLIFrameElement/contentWindow)
