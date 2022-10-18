@@ -162,10 +162,6 @@
     - [getElementsByTagName(tagname)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByTagName)
     - [getElementsByClassName(classname)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByClassName)
 
-  - [window](https://developer.mozilla.org/ja/docs/Web/API/Window)
-    - [location](https://developer.mozilla.org/ja/docs/Web/API/Location)
-      - [href](https://developer.mozilla.org/ja/docs/Web/API/Location/href)
-
 - ### JavaScript
   - [Document](https://developer.mozilla.org/ja/docs/Web/API/Document)
     - [createElement()](https://developer.mozilla.org/ja/docs/Web/API/Document/createElement)
