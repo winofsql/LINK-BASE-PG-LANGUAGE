@@ -157,6 +157,7 @@
     - [java.util](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/package-summary.html)
       - [ArrayList&lt;E&gt;](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/ArrayList.html)
         - [インタフェースList&lt;E&gt;](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/List.html)
+      - [HashMap&lt;K,V&gt;](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/HashMap.html)
       - [Arrays](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/Arrays.html)
         - [asList](https://docs.oracle.com/javase/jp/8/docs/api/java/util/Arrays.html#asList-T...-)
           - [※ asList 資料](https://blog.java-reference.com/java-arrays-aslist/)
