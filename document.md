@@ -153,6 +153,12 @@
   - [Java(tm) Platform, Standard Edition 8](https://docs.oracle.com/javase/jp/8/docs/api/)
     - [java.util](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/package-summary.html)
 
+
+- ### Java
+  - [Document](https://developer.mozilla.org/ja/docs/Web/API/Document)
+    - [createElement()](https://developer.mozilla.org/ja/docs/Web/API/Document/createElement)
+
+
 - ### JavaScript
   - [Document](https://developer.mozilla.org/ja/docs/Web/API/Document)
     - [createElement()](https://developer.mozilla.org/ja/docs/Web/API/Document/createElement)
