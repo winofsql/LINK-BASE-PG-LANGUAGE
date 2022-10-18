@@ -154,9 +154,13 @@
     - [java.util](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/package-summary.html)
 
 
-- ### Java
+- ### JavaScript
   - [Document](https://developer.mozilla.org/ja/docs/Web/API/Document)
     - [createElement()](https://developer.mozilla.org/ja/docs/Web/API/Document/createElement)
+    - [getElementById(id)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
+    - [getElementsByName(name)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByName)
+    - [getElementsByTagName(tagname)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByTagName)
+    - [getElementsByClassName(classname)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByClassName)
 
 
 - ### JavaScript
