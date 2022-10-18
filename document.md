@@ -39,7 +39,7 @@
     - [.ready()](https://api.jquery.com/ready/)
 
 - ### [Document (JS)](https://developer.mozilla.org/ja/docs/Web/API/Document)
-  - [getElementById()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
+  - [getElementById](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
   - [getElementsByName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByName)
   - [getElementsByTagName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByTagName)
   - [getElementsByClassName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByClassName)
