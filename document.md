@@ -1,7 +1,7 @@
 # ドキュメント
 |  |  |  |  |  |  |  |  |
 | -- | -- | -- | -- | -- | -- | -- | -- |
-| [C#](#user-content-c) | [Java](#user-content-java) | [PHP](#user-content-php) | [jQuery](#user-content-jquery) | [Document(JS)](#user-content-document-js) | [String(JS)](#user-content-string-js) | [HTML](#user-content-html) | [GAS](#user-content-google-apps-script)
+| [C#](#user-content-c) | [Java](#user-content-java) | [PHP](#user-content-php) | [jQuery](#user-content-jquery) | [JavaScript](#user-content-javascript) | [String(JS)](#user-content-string-js) | [HTML](#user-content-html) | [GAS](#user-content-google-apps-script)
 
 - ### [php](https://www.php.net/manual/ja/)
   - [スーパーグローバル](https://www.php.net/manual/ja/language.variables.superglobals.php)
