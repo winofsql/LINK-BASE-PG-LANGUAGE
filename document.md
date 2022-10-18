@@ -38,7 +38,7 @@
     - [.on("event", handler)](https://api.jquery.com/on/)
     - [.ready()](https://api.jquery.com/ready/)
 
-- ### [Document](https://developer.mozilla.org/ja/docs/Web/API/Document)
+- ### [Document(JS)](https://developer.mozilla.org/ja/docs/Web/API/Document)
   - **【メソッド】**
     - [createElement()](https://developer.mozilla.org/ja/docs/Web/API/Document/createElement)
     - [getElementById(id)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
