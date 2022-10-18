@@ -52,6 +52,7 @@
 
   - #### [String](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String)
     - [String.prototype.split()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+    - [replace メソッド](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc409988(v=msdn.10))
 
   - #### [RegExp (正規表現)](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
     - [RegExp.$1-$9](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/RegExp/n)
