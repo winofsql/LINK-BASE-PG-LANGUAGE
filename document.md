@@ -152,6 +152,7 @@
         - [split](https://docs.oracle.com/javase/jp/8/docs/api/java/lang/String.html#split-java.lang.String-)
         - [replace](https://docs.oracle.com/javase/jp/8/docs/api/java/lang/String.html#replace-java.lang.CharSequence-java.lang.CharSequence-) / [replaceAll](https://docs.oracle.com/javase/jp/8/docs/api/java/lang/String.html#replaceAll-java.lang.String-java.lang.String-)
         - [String.format](https://docs.oracle.com/javase/jp/8/docs/api/java/lang/String.html#format-java.lang.String-java.lang.Object...-)
+        - [substring](https://docs.oracle.com/javase/jp/8/docs/api/java/lang/String.html#substring-int-int-)
     - [java.util](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/package-summary.html)
       - [ArrayList&lt;E&gt;](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/ArrayList.html)
         - [インタフェースList&lt;E&gt;](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/List.html)
