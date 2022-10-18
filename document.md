@@ -161,6 +161,20 @@
     - [getElementsByName(name)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByName)
     - [getElementsByTagName(tagname)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByTagName)
     - [getElementsByClassName(classname)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByClassName)
+  - [window](https://developer.mozilla.org/ja/docs/Web/API/Window)
+    - [location](https://developer.mozilla.org/ja/docs/Web/API/Location)
+      - [href](https://developer.mozilla.org/ja/docs/Web/API/Location/href)
+
+  - [String](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String)
+    - [String.prototype.split()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+    - [replace メソッド](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc409988(v=msdn.10))
+
+  - [RegExp (正規表現)](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
+    - [RegExp.$1-$9](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/RegExp/n)
+    - [フラグ](https://javascript.keicode.com/lang/regex-pattern-flags.php)
+
+  - [HTMLIFrameElement) (IFRAME)](https://developer.mozilla.org/ja/docs/Web/API/HTMLIFrameElement)
+    - [contentWindow](https://developer.mozilla.org/ja/docs/Web/API/HTMLIFrameElement/contentWindow)
 
 
 - ### JavaScript
