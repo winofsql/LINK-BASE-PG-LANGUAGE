@@ -48,7 +48,8 @@
     - [String.prototype.split()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 
   - ### [window (JS)](https://developer.mozilla.org/ja/docs/Web/API/Window)
-    - [location](https://developer.mozilla.org/ja/docs/Web/API/Window/location)
+    - [location](https://developer.mozilla.org/ja/docs/Web/API/Location)
+      - [href](https://developer.mozilla.org/ja/docs/Web/API/Location/href)
 
   - ### [HTMLIFrameElement(JS)](https://developer.mozilla.org/ja/docs/Web/API/HTMLIFrameElement)
     - [contentWindow](https://developer.mozilla.org/ja/docs/Web/API/HTMLIFrameElement/contentWindow)
