@@ -161,6 +161,7 @@
     - [getElementsByName(name)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByName)
     - [getElementsByTagName(tagname)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByTagName)
     - [getElementsByClassName(classname)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByClassName)
+  - [window](https://developer.mozilla.org/ja/docs/Web/API/Window)     
 
 - ### JavaScript
   - [Document](https://developer.mozilla.org/ja/docs/Web/API/Document)
