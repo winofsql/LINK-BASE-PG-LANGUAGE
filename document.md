@@ -50,6 +50,9 @@
   - ### [window (JS)](https://developer.mozilla.org/ja/docs/Web/API/Window)
     - [location](https://developer.mozilla.org/ja/docs/Web/API/Window/location)
 
+  - ### [HTMLIFrameElement(JS)](https://developer.mozilla.org/ja/docs/Web/API/HTMLIFrameElement)
+    - [contentWindow](https://developer.mozilla.org/ja/docs/Web/API/HTMLIFrameElement/contentWindow)
+
 - ### [HTML](http://www.htmq.com/html/)
   - [FORM](http://www.htmq.com/html/form.shtml)
     - [INPUT type="text"](http://www.htmq.com/html/input_text.shtml)
