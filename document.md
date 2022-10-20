@@ -116,6 +116,7 @@
         - [List&lt;T&gt;.Add(T) メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.list-1.add?view=net-6.0)
       - [Dictionary&lt;TKey,TValue&gt;](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.dictionary-2?view=net-6.0)
         - [Dictionary&lt;TKey,TValue&gt;.Add(TKey, TValue) メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.dictionary-2.add?view=net-6.0)
+        - [拡張メソッド (C# プログラミング ガイド)](https://learn.microsoft.com/ja-jp/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
     - [**System.IO**](https://learn.microsoft.com/ja-jp/dotnet/api/system.io?view=net-6.0)
       - [File](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.file?view=net-6.0)
         - [File.Open](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.file.open?view=net-6.0) / [File.Create](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.file.create?view=net-6.0)
