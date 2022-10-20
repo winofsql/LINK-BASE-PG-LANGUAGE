@@ -165,8 +165,8 @@
               - boolean hasNext() : 反復処理でさらに要素がある場合にtrueを返す
               - E next() : 反復処理で次の要素を返す
               - [📕 replit SAMPLE](https://replit.com/@sworc/java-hash-map-iterator#Main.java)
-          -　forEach() メソッド 
-          -　[📕 java-map-foreach-method-counter](https://replit.com/@sworc/java-map-foreach-method-counter#Main.java)
+          - forEach() メソッド 
+            - [📕 java-map-foreach-method-counter](https://replit.com/@sworc/java-map-foreach-method-counter#Main.java)
       - [Arrays](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/Arrays.html)
         - [asList](https://docs.oracle.com/javase/jp/8/docs/api/java/util/Arrays.html#asList-T...-)
           - [※ asList 資料](https://blog.java-reference.com/java-arrays-aslist/)
