@@ -160,6 +160,7 @@
         - [📕 replit SAMPLE](https://replit.com/@sworc/java-array-list)
       - [HashMap&lt;K,V&gt;](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/HashMap.html)
         - [インタフェースMap&lt;K,V&gt;](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/Map.html)
+          - [Set<K>](https://docs.oracle.com/javase/jp/8/docs/api/java/util/Set.html) keySet()
       - [Arrays](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/Arrays.html)
         - [asList](https://docs.oracle.com/javase/jp/8/docs/api/java/util/Arrays.html#asList-T...-)
           - [※ asList 資料](https://blog.java-reference.com/java-arrays-aslist/)
