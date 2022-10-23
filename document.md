@@ -75,6 +75,7 @@
     - [📘 Github : gas-basic](https://github.com/winofsql/gas-basic)
       - [コード1.gs](https://github.com/winofsql/gas-basic/blob/main/%E3%82%B3%E3%83%BC%E3%83%891.gs)
       - [コード2.gs](https://github.com/winofsql/gas-basic/blob/main/%E3%82%B3%E3%83%BC%E3%83%892.gs) ( GmailApp.sendEmail )
+    - [📘 Github : スプレッドシート間のシートデータのコピー](https://github.com/winofsql/subject-gas-221021/blob/main/%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88%E9%96%93%E3%81%AE%E3%82%B7%E3%83%BC%E3%83%88%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC.gs)
     - [📘 Github : gas-spreadsheet-action](https://github.com/winofsql/gas-spreadsheet-action)
       - [getFilesNameAndId](https://github.com/winofsql/gas-spreadsheet-action/blob/main/getFilesNameAndId.gs)
         - フォルダ内の全てのファイルの名前とIDを取得してスプレッドシートに書き込む
