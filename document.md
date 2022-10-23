@@ -100,6 +100,8 @@
   - [Menu](https://developers.google.com/apps-script/reference/base/menu)
     - [addItem(caption, functionName)](https://developers.google.com/apps-script/reference/base/menu#addItem(String,String))
     - [addToUi()](https://developers.google.com/apps-script/reference/base/menu#addToUi())
+  - [HtmlService](https://developers.google.com/apps-script/reference/html/html-service)
+    - [createHtmlOutputFromFile(filename](https://developers.google.com/apps-script/reference/html/html-service#createhtmloutputfromfilefilename)
 
 - ### C#
   - [C#入門](https://www.tohoho-web.com/ex/c-sharp.html)
