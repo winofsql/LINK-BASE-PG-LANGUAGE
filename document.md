@@ -83,7 +83,7 @@
     - [getFileById(id)](https://developers.google.com/apps-script/reference/drive/drive-app#getfilebyidid)
     - [File](https://developers.google.com/apps-script/reference/drive/file)
       - [moveTo(Folder)](https://developers.google.com/apps-script/reference/drive/file#movetodestination)
-  - [ui](https://developers.google.com/apps-script/reference/base/ui)
+  - [Ui](https://developers.google.com/apps-script/reference/base/ui)
     - [createMenu(タイトル)](https://developers.google.com/apps-script/reference/base/ui#createMenu(String))
     - [📘 Github : gas-menu-html-dialog](https://github.com/winofsql/gas-menu-hrml-dialog)
       - [Code.gs](https://github.com/winofsql/gas-menu-html-dialog/blob/main/Code.gs)
@@ -91,6 +91,9 @@
         - [HtmlService.createHtmlOutputFromFile(filename)](https://developers.google.com/apps-script/reference/html/html-service#createHtmlOutputFromFile(String))
       - [use-jquery.html](https://github.com/winofsql/gas-menu-html-dialog/blob/main/use-jquery.html)
         - [google.script.run](https://developers.google.com/apps-script/guides/html/reference/run)
+  - [Menu](https://developers.google.com/apps-script/reference/base/menu)
+    - [addItem(caption, functionName)](https://developers.google.com/apps-script/reference/base/menu#addItem(String,String))
+    - [addToUi()](https://developers.google.com/apps-script/reference/base/menu#addToUi())
 
 - ### C#
   - [C#入門](https://www.tohoho-web.com/ex/c-sharp.html)
