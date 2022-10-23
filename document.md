@@ -78,6 +78,8 @@
     - [📘 Github : gas-spreadsheet-action](https://github.com/winofsql/gas-spreadsheet-action)
       - [getFilesNameAndId](https://github.com/winofsql/gas-spreadsheet-action/blob/main/getFilesNameAndId.gs)
         - フォルダ内の全てのファイルの名前とIDを取得してスプレッドシートに書き込む
+      - [sheetAction](https://github.com/winofsql/gas-spreadsheet-action/blob/main/sheetAction.gs)
+        - シート名を変更してそのシートをコピーして複数のシートを作成
   - [GmailApp](https://developers.google.com/apps-script/reference/gmail/gmail-app)
   - [DriveApp](https://developers.google.com/apps-script/reference/drive/drive-app)
     - [getFolderById(id)](https://developers.google.com/apps-script/reference/drive/drive-app#getFolderById(String))
