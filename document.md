@@ -137,7 +137,7 @@
       - [🔔 List&lt;T&gt;](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.list-1?view=net-6.0) / [MS-Run ( code-try-4 )](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.list-1?view=net-6.0#code-try-4)
         - [📕 replit SAMPLE](https://replit.com/@sworc/list-generic#Program.cs)
         - [List&lt;T&gt;.Add(T) メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.list-1.add?view=net-6.0)
-      - [Dictionary&lt;TKey,TValue&gt;](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.dictionary-2?view=net-6.0)
+      - [🔔 Dictionary&lt;TKey,TValue&gt;](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.dictionary-2?view=net-6.0)
         - [Dictionary&lt;TKey,TValue&gt;.Add(TKey, TValue) メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.dictionary-2.add?view=net-6.0)
         - [📘 GitHub : cs-con-dictionary](https://github.com/winofsql/cs-con-dictionary/blob/main/Program.cs)
           - [拡張メソッド (C# プログラミング ガイド)](https://learn.microsoft.com/ja-jp/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
