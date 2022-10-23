@@ -84,6 +84,7 @@
     - [File](https://developers.google.com/apps-script/reference/drive/file)
       - [moveTo(Folder)](https://developers.google.com/apps-script/reference/drive/file#movetodestination)
   - [ui](https://developers.google.com/apps-script/reference/base/ui)
+    - [createMenu(タイトル)](https://developers.google.com/apps-script/reference/base/ui#createMenu(String))
     - [📘 Github : gas-menu-html-dialog](https://github.com/winofsql/gas-menu-hrml-dialog)
       - [Code.gs](https://github.com/winofsql/gas-menu-html-dialog/blob/main/Code.gs)
         - [showModalDialog(userInterface, title)](https://developers.google.com/apps-script/reference/base/ui#showModalDialog(Object,String))
