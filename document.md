@@ -28,7 +28,7 @@
     - [.attr()](https://api.jquery.com/attr/)
     - [.data()](https://api.jquery.com/data/) ( data-* : ユーザーデータ )
   - 🔶 **【要素追加】**
-    - [.appendTo(target)](https://api.jquery.com/appendTo/) ( target 内に追加する ) 
+    - [.appendTo(target)](https://api.jquery.com/appendTo/) ( target 内に追加する : 下階層 ) 
     - [.append()](https://api.jquery.com/append/)
   - 🔶 **【要素参照】**
     - [.contents()](https://api.jquery.com/contents/) ( iframe 用 )
