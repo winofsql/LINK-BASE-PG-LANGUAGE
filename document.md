@@ -103,6 +103,9 @@
   - [HtmlService](https://developers.google.com/apps-script/reference/html/html-service)
     - [createHtmlOutputFromFile(filename)](https://developers.google.com/apps-script/reference/html/html-service#createhtmloutputfromfilefilename)
       - [📘 Github : メニューからダイアログの呼び出し](https://github.com/winofsql/subject-gas-221021/blob/main/%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%8B%E3%82%89%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AD%E3%82%B0%E3%81%AE%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%97.gs)
+        - [📘 Github : ダイアログ用の HTML](https://github.com/winofsql/subject-gas-221021/blob/main/myUI01.html)
+          - [google.script.run](https://developers.google.com/apps-script/guides/html/reference/run)
+            - HTML内で記述された JavaScript から GAS を呼び出す
 
 - ### C#
   - [C#入門](https://www.tohoho-web.com/ex/c-sharp.html)
