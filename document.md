@@ -67,6 +67,7 @@
 
 - ### [Google Apps Script](https://developers.google.com/apps-script/reference)
   - [スプレッドシート(SpreadsheetApp)](https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet-app)
+    - [create(name)](https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet-app#create(String))
     - [📘 Github : gas-basic](https://github.com/winofsql/gas-basic)
       - [コード1.gs](https://github.com/winofsql/gas-basic/blob/main/%E3%82%B3%E3%83%BC%E3%83%891.gs)
       - [コード2.gs](https://github.com/winofsql/gas-basic/blob/main/%E3%82%B3%E3%83%BC%E3%83%892.gs) ( GmailApp.sendEmail )
