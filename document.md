@@ -17,17 +17,17 @@
   - [正規表現関数( PCRE )](https://www.php.net/manual/ja/ref.pcre.php)
 
 - ### [jQuery](https://api.jquery.com/)
-  - **【値】**
+  - 🔶 **【値】**
     - [.val()](https://api.jquery.com/val/)
     - [.text()](https://api.jquery.com/text/)
     - [.html()](https://api.jquery.com/html/)
-  - **【属性】**
+  - 🔶 **【属性】**
     - [.css()](https://api.jquery.com/appendTo/)
       - [addClass](https://api.jquery.com/addClass/)
     - [.prop()](https://api.jquery.com/prop/)
     - [.attr()](https://api.jquery.com/attr/)
     - [.data()](https://api.jquery.com/data/) ( data-* : ユーザーデータ )
-  - **【要素】**
+  - 🔶 **【要素】**
     - [.appendTo(target)](https://api.jquery.com/appendTo/) ( target 内に追加する ) 
     - [.append()](https://api.jquery.com/append/)
     - [.contents()](https://api.jquery.com/contents/) ( iframe 用 )
@@ -35,7 +35,7 @@
     - [.parents("セレクタ")](https://api.jquery.com/find/) ( 複数階層 )
     - [.children()](https://api.jquery.com/children/) ( １階層 )
     - [.find("セレクタ")](https://api.jquery.com/find/) ( 複数階層 )
-  - **【イベント】**
+  - 🔶 **【イベント】**
     - [.on("event", handler)](https://api.jquery.com/on/)
     - [.ready()](https://api.jquery.com/ready/)
 
