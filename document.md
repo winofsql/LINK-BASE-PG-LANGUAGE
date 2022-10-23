@@ -84,6 +84,8 @@
       - [deleteSheets](https://github.com/winofsql/gas-spreadsheet-action/blob/main/deleteSheets.gs)
         - 複数シートの順次削除
   - [GmailApp](https://developers.google.com/apps-script/reference/gmail/gmail-app)
+    - [sendEmail(recipient, subject, body)](https://developers.google.com/apps-script/reference/gmail/gmail-app#sendemailrecipient,-subject,-body)
+      - [📘 Github : メール送信.gs](https://github.com/winofsql/subject-gas-221021/blob/main/%E3%83%A1%E3%83%BC%E3%83%AB%E9%80%81%E4%BF%A1.gs)
   - [DriveApp](https://developers.google.com/apps-script/reference/drive/drive-app)
     - [getFolderById(id)](https://developers.google.com/apps-script/reference/drive/drive-app#getFolderById(String))
     - [getFileById(id)](https://developers.google.com/apps-script/reference/drive/drive-app#getfilebyidid)
