@@ -76,6 +76,7 @@
       - [コード1.gs](https://github.com/winofsql/gas-basic/blob/main/%E3%82%B3%E3%83%BC%E3%83%891.gs)
       - [コード2.gs](https://github.com/winofsql/gas-basic/blob/main/%E3%82%B3%E3%83%BC%E3%83%892.gs) ( GmailApp.sendEmail )
     - [📘 Github : gas-spreadsheet-action](https://github.com/winofsql/gas-spreadsheet-action)
+      - [getFilesNameAndId](https://github.com/winofsql/gas-spreadsheet-action/blob/main/getFilesNameAndId.gs)
   - [GmailApp](https://developers.google.com/apps-script/reference/gmail/gmail-app)
   - [DriveApp](https://developers.google.com/apps-script/reference/drive/drive-app)
     - [getFolderById(id)](https://developers.google.com/apps-script/reference/drive/drive-app#getFolderById(String))
