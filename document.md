@@ -130,7 +130,7 @@
         - [Split メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.split?view=net-6.0) / [Join メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.join?view=net-6.0)
           - [📕 replit SAMPLE](https://replit.com/@sworc/string-split#Program.cs)
         - [ToCharArray メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.tochararray?view=net-6.0)
-        - [Replace メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.replace?view=net-6.0) / [String.Substring メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.substring?view=net-6.0) / [String.Trim メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.trim?view=net-6.0)
+        - [Replace メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.replace?view=net-6.0) / [Substring メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.substring?view=net-6.0) / [Trim メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.trim?view=net-6.0)
         - [Format メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.format?view=net-6.0)
         - [IndexOf メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.indexof?view=net-6.0)
     - [🔷 **System.Collections.Generic**](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic?view=net-6.0)
