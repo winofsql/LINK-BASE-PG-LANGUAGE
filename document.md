@@ -23,6 +23,7 @@
     - [.html()](https://api.jquery.com/html/)
   - **【属性】**
     - [.css()](https://api.jquery.com/appendTo/)
+      - [addClass](https://api.jquery.com/addClass/)
     - [.prop()](https://api.jquery.com/prop/)
     - [.attr()](https://api.jquery.com/attr/)
     - [.data()](https://api.jquery.com/data/) ( data-* : ユーザーデータ )
