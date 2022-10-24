@@ -173,6 +173,7 @@
       - [Regex](https://learn.microsoft.com/ja-jp/dotnet/api/system.text.regularexpressions.regex?view=net-6.0)
   
   - [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
+    - [$ - 文字列補間](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/tokens/interpolated)
   - [Microsoft C# プログラミング ガイド](https://docs.microsoft.com/ja-jp/dotnet/csharp/programming-guide/)
   - [DOBON.NET](http://dobon.net/vb/dotnet/internet/index.html) : ( **VBを含むので注意** )
 
