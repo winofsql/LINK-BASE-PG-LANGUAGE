@@ -167,6 +167,8 @@
         - [Close メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbcdatareader.close?view=dotnet-plat-ext-6.0)
     - [🔷 **System.Data.OleDb**](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.oledb?view=dotnet-plat-ext-6.0)
     - [🔷 **System.Text**](https://learn.microsoft.com/ja-jp/dotnet/api/system.text?view=net-6.0)
+      - [UTF8Encoding](https://learn.microsoft.com/ja-jp/dotnet/api/system.text.utf8encoding?view=net-6.0)
+      - [Encoding](https://learn.microsoft.com/ja-jp/dotnet/api/system.text.encoding?view=net-6.0)
   
   - [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
   - [Microsoft C# プログラミング ガイド](https://docs.microsoft.com/ja-jp/dotnet/csharp/programming-guide/)
