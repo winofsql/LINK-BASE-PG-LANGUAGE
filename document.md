@@ -169,6 +169,7 @@
     - [🔷 **System.Text**](https://learn.microsoft.com/ja-jp/dotnet/api/system.text?view=net-6.0)
       - [UTF8Encoding](https://learn.microsoft.com/ja-jp/dotnet/api/system.text.utf8encoding?view=net-6.0)
       - [Encoding](https://learn.microsoft.com/ja-jp/dotnet/api/system.text.encoding?view=net-6.0)
+    - [🔷 **System.Text.RegularExpressions**](https://learn.microsoft.com/ja-jp/dotnet/api/system.text.regularexpressions?view=net-6.0)
   
   - [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
   - [Microsoft C# プログラミング ガイド](https://docs.microsoft.com/ja-jp/dotnet/csharp/programming-guide/)
