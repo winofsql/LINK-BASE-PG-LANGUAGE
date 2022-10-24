@@ -175,6 +175,7 @@
   - [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
     - [$ - 文字列補間](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/tokens/interpolated)
     - [@ - 逐語的識別子](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/tokens/verbatim)
+    - [ラムダ式 - 匿名関数](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/operators/lambda-expressions)
   
   - [Microsoft C# プログラミング ガイド](https://docs.microsoft.com/ja-jp/dotnet/csharp/programming-guide/)
   - [DOBON.NET](http://dobon.net/vb/dotnet/internet/index.html) : ( **VBを含むので注意** )
