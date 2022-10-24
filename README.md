@@ -1,6 +1,6 @@
 # link-base
+- #### [言語 ドキュメント](https://github.com/winofsql/link-base/blob/main/document.md)
 - #### [オンラインツール](https://github.com/winofsql/link-base/blob/main/online-tool.md)
-- #### [ドキュメント](https://github.com/winofsql/link-base/blob/main/document.md)
 
 - ### Google
   - ### [Gmail](https://mail.google.com/)
