@@ -153,6 +153,7 @@
         - [📕 replit SAMPLE](https://replit.com/@sworc/cs-con-binary-writer?v=1#Program.cs)
         - [📕 replit SAMPLE( use Struct )](https://replit.com/@sworc/cs-binary-struct-writer?v=1#main.cs)
       - [Directory](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.directory?view=net-6.0)
+        - [📘 GitHub : cs-con-create-directory](https://github.com/winofsql/cs-con-create-directory/blob/main/Program.cs)
     - [🔷 **System.Net.Http**](https://learn.microsoft.com/ja-jp/dotnet/api/system.net.http?view=net-6.0)
       - [HttpClient](https://learn.microsoft.com/ja-jp/dotnet/api/system.net.http.httpclient?view=net-6.0)
         - [GetAsync(String)](https://learn.microsoft.com/ja-jp/dotnet/api/system.net.http.httpclient.getstringasync?view=net-6.0#system-net-http-httpclient-getstringasync(system-string))
