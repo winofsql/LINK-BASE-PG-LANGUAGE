@@ -1,4 +1,4 @@
-# ドキュメント
+# 言語ドキュメント
 |  |  |  |  |  |  |  |  |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | [C#](#user-content-c) | [Java](#user-content-java) | [PHP](#user-content-php) | [jQuery](#user-content-jquery) | [JavaScript](#user-content-javascript) | [HTML](#user-content-html) | [GAS](#user-content-google-apps-script)
