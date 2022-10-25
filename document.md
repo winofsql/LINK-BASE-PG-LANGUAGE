@@ -3,7 +3,7 @@
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | [C#](#user-content-c) | [Java](#user-content-java) | [PHP](#user-content-php) | [jQuery](#user-content-jquery) | [JavaScript](#user-content-javascript) | [HTML](#user-content-html) | [GAS](#user-content-google-apps-script)
 
-- ### [📘 php](https://www.php.net/manual/ja/)
+- ### 📘 [php](https://www.php.net/manual/ja/)
   - [スーパーグローバル](https://www.php.net/manual/ja/language.variables.superglobals.php)
   - [文字列](https://www.php.net/manual/ja/language.types.string.php)
     - [String 関数](https://www.php.net/manual/ja/ref.strings.php)
