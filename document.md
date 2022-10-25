@@ -176,6 +176,7 @@
   - [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
     - [$ - 文字列補間](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/tokens/interpolated)
     - [@ - 逐語的識別子](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/tokens/verbatim)
+      - [📘 GitHub : cs-con-here-document](https://github.com/winofsql/cs-con-here-document)
     - [ラムダ式 - 匿名関数](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/operators/lambda-expressions)
     - [タプル](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/builtin-types/value-tuples)
       - [📘 GitHub : cs-con-tuple](https://github.com/winofsql/cs-con-tuple/blob/main/Program.cs)
