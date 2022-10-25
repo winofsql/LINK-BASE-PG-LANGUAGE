@@ -151,7 +151,7 @@
             - [📘 GitHub : cs-con-stream-reader](https://github.com/winofsql/cs-con-stream-reader/blob/main/README.md)
         - [ReadToEnd メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamreader.readtoend?view=net-6.0)
           - [📕 replit : cs-con-text-reader](https://replit.com/@sworc/cs-con-text-reader?v=1#Program.cs)
-            - [📘 GitHub : cs-con-text-reader](https://github.com/winofsql/cs-con-text-reader/blob/main/Program.cs)
+            - [📘 GitHub : cs-con-text-reader](https://github.com/winofsql/cs-con-text-reader/blob/main/README.md)
       - [BinaryWriter](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.binarywriter?view=net-6.0)
         - [📕 replit SAMPLE](https://replit.com/@sworc/cs-con-binary-writer?v=1#Program.cs)
         - [📕 replit SAMPLE( use Struct )](https://replit.com/@sworc/cs-binary-struct-writer?v=1#main.cs)
