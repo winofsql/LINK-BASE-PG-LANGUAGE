@@ -11,7 +11,7 @@
   - ## [📩&nbsp; Gmail](https://mail.google.com/)
   - ## [💾&nbsp; 共有ドライブ](https://drive.google.com/drive/shared-drives)
   - ## [🌏&nbsp; スプレッドシート](https://docs.google.com/spreadsheets)
-    - ## [🏃&nbsp 全てのプロジェクト](https://script.google.com/home/all)
+    - ## [🏃&nbsp; 全てのプロジェクト](https://script.google.com/home/all)
   - ### tool
 
   |   |  |  |  |  |
