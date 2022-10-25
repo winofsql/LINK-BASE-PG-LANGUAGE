@@ -15,3 +15,4 @@
   | -- | -- | -- | -- | -- | 
   | [カレンダー](https://calendar.google.com/calendar) | [翻訳](https://translate.google.co.jp/)  | [リモートデスクトップ](https://remotedesktop.google.com/access/) | [Classroom](https://classroom.google.com/) | [MAP](https://www.google.co.jp/maps) |
 
+ 
