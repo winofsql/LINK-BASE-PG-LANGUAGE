@@ -12,10 +12,10 @@
   - ## [💾&nbsp; 共有ドライブ](https://drive.google.com/drive/shared-drives)
   - ## [🌏&nbsp; スプレッドシート](https://docs.google.com/spreadsheets)
     - ## [🏃&nbsp; 全てのプロジェクト](https://script.google.com/home/all)
-  - ### tool
+  - ### tools
 
-  |   |  |  |  |  |
-  | -- | -- | -- | -- | -- | 
-  | [カレンダー](https://calendar.google.com/calendar) | [翻訳](https://translate.google.co.jp/)  | [リモートデスクトップ](https://remotedesktop.google.com/access/) | [Classroom](https://classroom.google.com/) | [MAP](https://www.google.co.jp/maps) |
+    |   |  |  |  |  |
+    | -- | -- | -- | -- | -- | 
+    | [カレンダー](https://calendar.google.com/calendar) | [翻訳](https://translate.google.co.jp/)  | [リモートデスクトップ](https://remotedesktop.google.com/access/) | [Classroom](https://classroom.google.com/) | [MAP](https://www.google.co.jp/maps) |
 
  
