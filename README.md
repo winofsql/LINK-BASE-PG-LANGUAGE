@@ -1,10 +1,10 @@
 # link-base
 - #### [言語 ドキュメント](https://github.com/winofsql/link-base-pg-language/blob/main/document.md)
   - ##### ▼ 以下のリンクは、CTRL キーを押しながらクリックしてください
-  - [C#](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#c)
-  - [Java](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#java)
-  - [PHP](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#php)
-  - [jQuery](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#jquery)
+  - [📕 **C#**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#c)
+  - [📗 **Java**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#java)
+  - [📘 **PHP**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#php)
+  - [📙 **jQuery**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#jquery)
 - #### [オンラインツール](https://github.com/winofsql/link-base/blob/main/online-tool.md)
 
 - ### Google
