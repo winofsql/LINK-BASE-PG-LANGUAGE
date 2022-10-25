@@ -8,7 +8,7 @@
 - #### [オンラインツール](https://github.com/winofsql/link-base/blob/main/online-tool.md)
 
 - ### Google
-  - ### [📩&nbsp; Gmail](https://mail.google.com/)
+  - ## [📩&nbsp; Gmail](https://mail.google.com/)
   - #### [共有ドライブ](https://drive.google.com/drive/shared-drives)
   - #### [スプレッドシート](https://docs.google.com/spreadsheets)
     - #### [全てのプロジェクト](https://script.google.com/home/all)
