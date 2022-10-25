@@ -5,6 +5,7 @@
   - [📗&nbsp; **Java**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#java)
   - [📘&nbsp; **PHP**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#php)
   - [📙&nbsp; **jQuery**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#jquery)
+  - [📒&nbsp; **JavaScript**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#javascript)
 
 - ### [💯&nbsp; オンラインツール](https://github.com/winofsql/link-base/blob/main/online-tool.md)
 
