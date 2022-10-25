@@ -180,6 +180,9 @@
     - [タプル](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/builtin-types/value-tuples)
       - [📘 GitHub : cs-con-tuple](https://github.com/winofsql/cs-con-tuple/blob/main/Program.cs)
       - [📘 GitHub : cs-tuple](https://github.com/winofsql/cs-tuple)
+    - [インスタンス コンストラクター](https://learn.microsoft.com/ja-jp/dotnet/csharp/programming-guide/classes-and-structs/instance-constructors)
+      - [📘 GitHub : cs-build-class](https://github.com/winofsql/cs-build-class)
+      - [📘 GitHub : cs-class-extends](https://github.com/winofsql/cs-class-extends)
   
   - [Microsoft C# プログラミング ガイド](https://docs.microsoft.com/ja-jp/dotnet/csharp/programming-guide/)
   - [DOBON.NET](http://dobon.net/vb/dotnet/internet/index.html) : ( **VBを含むので注意** )
