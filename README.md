@@ -1,5 +1,5 @@
 # link-base
-- #### [🍔&nbsp; 言語 ドキュメント](https://github.com/winofsql/link-base-pg-language/blob/main/document.md)
+- ### [🍔&nbsp; 言語 ドキュメント](https://github.com/winofsql/link-base-pg-language/blob/main/document.md)
   - #### ▼ 以下のリンクは、CTRL キーを押しながらクリックしてください
   - [📕&nbsp; **C#**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#c)
   - [📗&nbsp; **Java**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#java)
