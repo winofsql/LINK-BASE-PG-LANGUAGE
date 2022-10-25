@@ -1,6 +1,5 @@
 # link-base
 - #### [言語 ドキュメント](https://github.com/winofsql/link-base-pg-language/blob/main/document.md)
-  - <a href="https://github.com/winofsql/link-base-pg-language/blob/main/document.md#user-content-c" target="_blank">C#</a>
   - [C#](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#user-content-c)
   - [Java](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#user-content-java)
 - #### [オンラインツール](https://github.com/winofsql/link-base/blob/main/online-tool.md)
