@@ -7,7 +7,7 @@
   - [📙&nbsp; **jQuery**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#jquery)
 - #### [オンラインツール](https://github.com/winofsql/link-base/blob/main/online-tool.md)
 
-- ## Google アプリ
+- ### Google アプリ
   - ### [Gmail](https://mail.google.com/)
   - #### [共有ドライブ](https://drive.google.com/drive/shared-drives)
   - #### [スプレッドシート](https://docs.google.com/spreadsheets)
