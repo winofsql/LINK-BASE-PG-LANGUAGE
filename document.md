@@ -17,6 +17,9 @@
   - [正規表現関数( PCRE )](https://www.php.net/manual/ja/ref.pcre.php)
   - [TCPDF](https://github.com/tecnickcom/TCPDF)
     - [📘 GitHub : 社員一覧印刷処理](https://github.com/winofsql/php-mtn-v14-pdf-print)
+    - [📘 GitHub : フォント変更・タイトルサイズ変更](https://github.com/winofsql/php-print-v01-gothic)
+    - [📘 GitHub : 印刷出力レイアウトのコントロール](https://github.com/winofsql/php-print-v02-format-control)
+    - [📘 GitHub : 罫線とテキスト効果( ドロップシャドウ・文字色・文字枠線 )](https://github.com/winofsql/php-print-v03-line-sum-text-effect)
 
 - ### 📙 [jQuery](https://api.jquery.com/)
   - 🔶 **【値】**
