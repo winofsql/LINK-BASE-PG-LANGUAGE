@@ -10,7 +10,7 @@
 - ### Google
   - ## [📩&nbsp; Gmail](https://mail.google.com/)
   - ## [💾&nbsp; 共有ドライブ](https://drive.google.com/drive/shared-drives)
-  - #### [スプレッドシート](https://docs.google.com/spreadsheets)
+  - ## [📚&nbsp; スプレッドシート](https://docs.google.com/spreadsheets)
     - #### [全てのプロジェクト](https://script.google.com/home/all)
   - ### tool
 
