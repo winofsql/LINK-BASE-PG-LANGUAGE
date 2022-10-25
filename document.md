@@ -16,7 +16,7 @@
   - [日付・時刻 関数](https://www.php.net/manual/ja/ref.datetime.php)
   - [正規表現関数( PCRE )](https://www.php.net/manual/ja/ref.pcre.php)
   - [TCPDF](https://github.com/tecnickcom/TCPDF)
-    - [📘 GitHub : php-mtn-v14-pdf-print](https://github.com/winofsql/php-mtn-v14-pdf-print)
+    - [📘 GitHub : 社員一覧印刷処理](https://github.com/winofsql/php-mtn-v14-pdf-print)
 
 - ### 📙 [jQuery](https://api.jquery.com/)
   - 🔶 **【値】**
