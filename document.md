@@ -111,7 +111,7 @@
           - [google.script.run](https://developers.google.com/apps-script/guides/html/reference/run)
             - HTML内で記述された JavaScript から GAS を呼び出す
 
-- ### C#
+- ### 📕 C#
   - [C#入門 ( とほほ )](https://www.tohoho-web.com/ex/c-sharp.html)
   - #### [Microsoft C# API](https://learn.microsoft.com/ja-jp/dotnet/api/?view=net-6.0)
     - [🔷 **System**](https://learn.microsoft.com/ja-jp/dotnet/api/system?view=net-6.0)
