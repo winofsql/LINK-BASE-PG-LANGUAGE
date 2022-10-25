@@ -16,7 +16,7 @@
   - [日付・時刻 関数](https://www.php.net/manual/ja/ref.datetime.php)
   - [正規表現関数( PCRE )](https://www.php.net/manual/ja/ref.pcre.php)
 
-- ### [jQuery](https://api.jquery.com/)
+- ### 📙 [jQuery](https://api.jquery.com/)
   - 🔶 **【値】**
     - [.val()](https://api.jquery.com/val/)
     - [.text()](https://api.jquery.com/text/)
