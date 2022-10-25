@@ -2,12 +2,12 @@
 - ### [🍔&nbsp; 言語 ドキュメント](https://github.com/winofsql/link-base-pg-language/blob/main/document.md)
   - #### ▼ 以下のリンクは、CTRL キーを押しながらクリックしてください
   - [📕&nbsp; **C#**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#-c)
-  - [📗&nbsp; **Java**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#java)
-  - [📘&nbsp; **PHP**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#php)
+  - [📗&nbsp; **Java**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#-java)
+  - [📘&nbsp; **PHP**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#-php)
   - [📙&nbsp; **jQuery**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#jquery)
   - [📒&nbsp; **JavaScript**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#javascript)
   - [📔&nbsp; **HTML**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#html)
-  - [📓&nbsp; **GAS**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#google-apps-script)
+  - [📓&nbsp; **GAS**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#-google-apps-script)
 
 - ### [💯&nbsp; オンラインツール](https://github.com/winofsql/link-base/blob/main/online-tool.md)
 
