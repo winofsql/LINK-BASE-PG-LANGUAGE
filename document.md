@@ -64,6 +64,8 @@
     - [フラグ](https://javascript.keicode.com/lang/regex-pattern-flags.php)
   - [🔷 HTMLIFrameElement) (IFRAME)](https://developer.mozilla.org/ja/docs/Web/API/HTMLIFrameElement)
     - [contentWindow](https://developer.mozilla.org/ja/docs/Web/API/HTMLIFrameElement/contentWindow)
+  - 🔷 その他
+    - [無名 function の実行](https://replit.com/@sworc/js-anonymous-funcion#index.html)
 
 - ### 📔 [HTML](http://www.htmq.com/html/)
   - [FORM](http://www.htmq.com/html/form.shtml)
