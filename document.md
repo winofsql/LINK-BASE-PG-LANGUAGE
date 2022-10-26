@@ -11,6 +11,8 @@
       - [implode (join)](https://www.php.net/manual/ja/function.implode.php)
     - [マルチバイト文字列](https://www.php.net/manual/ja/book.mbstring.php)
       - [mb_convert_encoding](https://www.php.net/manual/ja/function.mb-convert-encoding.php)
+      - [mb_send_mail](https://www.php.net/manual/ja/function.mb-send-mail.php)
+        - [📘 GitHub : ファイルアップロードしてメール送信](https://github.com/winofsql/php-v03-mail-ajax-attachment/blob/main/model.php)
   - [ODBC](https://www.php.net/manual/ja/book.uodbc.php)
   - [PDO](https://www.php.net/manual/ja/book.pdo.php)
     - [📘 GitHub : pdo-select-basic](https://github.com/winofsql/php-pdo-select-basic)
