@@ -127,7 +127,7 @@
         - [Array.Sort メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.array.sort?view=net-6.0)
           - [📕 replit : array-sort](https://replit.com/@sworc/array-sort#Program.cs)
         - [Array.ForEach&lt;T&gt;(T[], Action&lt;T&gt;) メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.array.foreach?view=net-6.0)
-          - [📕 replit SAMPLE](https://replit.com/@sworc/array-foreach#Program.cs)
+          - [📕 replit : array-foreach](https://replit.com/@sworc/array-foreach#Program.cs)
         - [Array.IndexOf メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.array.indexof?view=net-6.0)
       - [Console](https://learn.microsoft.com/ja-jp/dotnet/api/system.console?view=net-6.0)
         - [Console.ReadLine メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.console.readline?view=net-6.0)
