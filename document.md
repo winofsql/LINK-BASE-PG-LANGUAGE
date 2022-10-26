@@ -136,7 +136,7 @@
         - [Environment.GetEnvironmentVariable メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.environment.getenvironmentvariable?view=net-6.0)
       - [🔔 String](https://learn.microsoft.com/ja-jp/dotnet/api/system.string?view=net-6.0)
         - [Split メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.split?view=net-6.0) / [Join メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.join?view=net-6.0)
-          - [📕 replit SAMPLE](https://replit.com/@sworc/string-split#Program.cs)
+          - [📕 replit : string-split](https://replit.com/@sworc/string-split#Program.cs)
             - [📘 GitHub : cs-split](https://github.com/winofsql/cs-split/blob/main/README.md)
         - [ToCharArray メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.tochararray?view=net-6.0)
         - [Replace メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.replace?view=net-6.0) / [Substring メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.substring?view=net-6.0) / [Trim メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.string.trim?view=net-6.0)
