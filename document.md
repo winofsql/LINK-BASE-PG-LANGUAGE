@@ -168,7 +168,7 @@
         - [GetAsync(String)](https://learn.microsoft.com/ja-jp/dotnet/api/system.net.http.httpclient.getstringasync?view=net-6.0#system-net-http-httpclient-getstringasync(system-string))
         - [📘 GitHub : Form : cs-web-access](https://github.com/winofsql/cs-web-access)
         - [📘 GitHub : cs-con-http-download](https://github.com/winofsql/cs-con-http-download)
-    - [🔷 **System.Data.Odbc**](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc?view=dotnet-plat-ext-6.0)
+    - [🔷 **System.Data.Odbc**](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc?view=dotnet-plat-ext-6.0) : コンピューター\HKEY_LOCAL_MACHINE\SOFTWARE\ODBC\ODBCINST.INI
       - [OdbcConnection](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbcconnection?view=dotnet-plat-ext-6.0)
       - [OdbcCommand](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbccommand?view=dotnet-plat-ext-6.0)
         - [ExecuteReader メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbccommand.executereader?view=dotnet-plat-ext-6.0)
