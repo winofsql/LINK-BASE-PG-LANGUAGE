@@ -169,7 +169,6 @@
         - [📘 GitHub : Form : cs-web-access](https://github.com/winofsql/cs-web-access)
         - [📘 GitHub : cs-con-http-download](https://github.com/winofsql/cs-con-http-download)
     - [🔷 **System.Data.Odbc**](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc?view=dotnet-plat-ext-6.0)
-      - ドライバ一覧 : HKEY_LOCAL_MACHINE\SOFTWARE\ODBC\ODBCINST.INI
       - [OdbcConnection](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbcconnection?view=dotnet-plat-ext-6.0)
       - [OdbcCommand](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbccommand?view=dotnet-plat-ext-6.0)
         - [ExecuteReader メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbccommand.executereader?view=dotnet-plat-ext-6.0)
@@ -177,6 +176,7 @@
         - [Read メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbcdatareader.read?view=dotnet-plat-ext-6.0)
         - [Close メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbcdatareader.close?view=dotnet-plat-ext-6.0)
       - [OdbcConnectionStringBuilder](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbcconnectionstringbuilder?view=dotnet-plat-ext-6.0)
+        - ドライバ一覧 : HKEY_LOCAL_MACHINE\SOFTWARE\ODBC\ODBCINST.INI
     - [🔷 **System.Data.OleDb**](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.oledb?view=dotnet-plat-ext-6.0)
     - [🔷 **System.Text**](https://learn.microsoft.com/ja-jp/dotnet/api/system.text?view=net-6.0)
       - [UTF8Encoding](https://learn.microsoft.com/ja-jp/dotnet/api/system.text.utf8encoding?view=net-6.0)
