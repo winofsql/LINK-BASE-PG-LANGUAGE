@@ -217,7 +217,7 @@
     - [🔷 java.util](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/package-summary.html)
       - [🔔 ArrayList&lt;E&gt;](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/ArrayList.html)
         - [🚩 インタフェースList&lt;E&gt;](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/List.html)
-        - [📕 replit : java-array-list](https://replit.com/@sworc/java-array-list)
+          - [📕 replit : java-array-list](https://replit.com/@sworc/java-array-list)
       - [🔔 HashMap&lt;K,V&gt;](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/HashMap.html)
         - [🚩 インタフェースMap&lt;K,V&gt;](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/Map.html)
           - keySet() メソッド => [Set&lt;K&gt;](https://docs.oracle.com/javase/jp/8/docs/api/java/util/Set.html)
