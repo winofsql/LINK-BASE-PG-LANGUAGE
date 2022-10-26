@@ -7,6 +7,7 @@
 - #### [paiza 講座一覧](https://paiza.jp/works/courses)
 - #### [写真素材 ( ぱくたそ )](https://www.pakutaso.com/)
   - #### [利用規約](https://www.pakutaso.com/userpolicy.html)
+- #### [絵文字](http://lightbox.on.coocan.jp/html/utf8tool.php)
 
 |   |  |  |  |  |  |
 | -- | -- | -- | -- | -- | -- | 
