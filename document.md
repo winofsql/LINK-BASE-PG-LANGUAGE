@@ -175,6 +175,7 @@
       - [OdbcDataReader](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbcdatareader?view=dotnet-plat-ext-6.0)
         - [Read メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbcdatareader.read?view=dotnet-plat-ext-6.0)
         - [Close メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbcdatareader.close?view=dotnet-plat-ext-6.0)
+      - [OdbcConnectionStringBuilder](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbcconnectionstringbuilder?view=dotnet-plat-ext-6.0)
     - [🔷 **System.Data.OleDb**](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.oledb?view=dotnet-plat-ext-6.0)
     - [🔷 **System.Text**](https://learn.microsoft.com/ja-jp/dotnet/api/system.text?view=net-6.0)
       - [UTF8Encoding](https://learn.microsoft.com/ja-jp/dotnet/api/system.text.utf8encoding?view=net-6.0)
