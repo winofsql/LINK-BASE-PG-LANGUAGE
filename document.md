@@ -123,6 +123,7 @@
 
 - ### 📕 C#
   - [C#入門 ( とほほ )](https://www.tohoho-web.com/ex/c-sharp.html)
+    - [📘 GitHub : cs-basic](https://github.com/winofsql/subject-1021-java-csharp-basic/blob/main/Program.cs)
   - #### [Microsoft C# API](https://learn.microsoft.com/ja-jp/dotnet/api/?view=net-6.0)
     - [🔷 **System**](https://learn.microsoft.com/ja-jp/dotnet/api/system?view=net-6.0)
       - [Array](https://learn.microsoft.com/ja-jp/dotnet/api/system.array?view=net-6.0)
@@ -209,6 +210,7 @@
 
 - ### 📗 Java
   - [Java 基礎](https://java-code.jp/)
+    - [📘 GitHub : java-basic](https://github.com/winofsql/subject-1021-java-csharp-basic/blob/main/Program.java)
   - [Java への道](http://www.javaroad.jp/)
   - [Java(tm) Platform, Standard Edition 8](https://docs.oracle.com/javase/jp/8/docs/api/)
     - [🔷 java.lang](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/lang/package-summary.html)
