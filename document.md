@@ -228,7 +228,7 @@
             - iterator() メソッド => [Iterator&lt;E&gt;](https://docs.oracle.com/javase/jp/8/docs/api/java/util/Iterator.html)
               - boolean hasNext() : 反復処理でさらに要素がある場合にtrueを返す
               - E next() : 反復処理で次の要素を返す
-              - [📕 replit](https://replit.com/@sworc/java-hash-map-iterator#Main.java)
+              - [📕 replit : java-hash-map-iterator](https://replit.com/@sworc/java-hash-map-iterator#Main.java)
           - forEach() メソッド 
             - [📕 replit : java-map-foreach-method-counter](https://replit.com/@sworc/java-map-foreach-method-counter#Main.java)
               - [📘 GitHub : java-map-list-array](https://github.com/winofsql/java-map-list-array/blob/main/README.md)
