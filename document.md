@@ -114,7 +114,7 @@
         - [showModalDialog(userInterface, title)](https://developers.google.com/apps-script/reference/base/ui#showModalDialog(Object,String))
         - [HtmlService.createHtmlOutputFromFile(filename)](https://developers.google.com/apps-script/reference/html/html-service#createHtmlOutputFromFile(String))
       - [use-jquery.html](https://github.com/winofsql/gas-menu-html-dialog/blob/main/use-jquery.html)
-        - [google.script.run](https://developers.google.com/apps-script/guides/html/reference/run)
+        - [google.script.run](https://developers.google.com/apps-script/guides/html/reference/run) : ( サーバｰ側のスクリプトの実行 )
   - [🔴 Menu](https://developers.google.com/apps-script/reference/base/menu)
     - [addItem(caption, functionName)](https://developers.google.com/apps-script/reference/base/menu#addItem(String,String))
     - [addToUi()](https://developers.google.com/apps-script/reference/base/menu#addToUi())
