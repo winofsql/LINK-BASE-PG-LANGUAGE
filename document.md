@@ -101,6 +101,7 @@
   - [🔴 UrlFetchApp](https://developers.google.com/apps-script/reference/url-fetch/url-fetch-app)
     - [fetch(url)](https://developers.google.com/apps-script/reference/url-fetch/url-fetch-app?hl=ja#fetch(String))
       - [🔴 HTTPResponse](https://developers.google.com/apps-script/reference/url-fetch/http-response)
+        - [getContentText()](https://developers.google.com/apps-script/reference/url-fetch/http-response?hl=ja#getContentText())
   - [🔴 DriveApp](https://developers.google.com/apps-script/reference/drive/drive-app)
     - [getFolderById(id)](https://developers.google.com/apps-script/reference/drive/drive-app#getFolderById(String))
     - [getFileById(id)](https://developers.google.com/apps-script/reference/drive/drive-app#getfilebyidid)
