@@ -253,3 +253,7 @@
       - [🔔 FileInputStream](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/io/FileInputStream.html)
       - [🔔 InputStreamReader](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/io/InputStreamReader.html)
       - [🔔 BufferedReader](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/io/BufferedReader.html)
+    - [🔷 java.sql](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/sql/package-summary.html)
+      - [🔔 Connection](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/sql/Connection.html)
+      - [🔔 Statement](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/sql/Statement.html)
+      - [🔔 ResultSet](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/sql/ResultSet.html)
