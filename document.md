@@ -200,6 +200,8 @@
     - [単純型 (int は System.Int32 のエイリアス )](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/language-specification/types#simple-types)
       - [📘 GitHub : 文字列 <=> 整数](https://github.com/winofsql/cs-con-string-int)
         - [Int32 構造体](https://learn.microsoft.com/ja-jp/dotnet/api/system.int32?view=net-6.0)
+          - [int.Parse()](https://learn.microsoft.com/ja-jp/dotnet/api/system.int32.parse?view=net-6.0)
+          - [int.ToString()](https://learn.microsoft.com/ja-jp/dotnet/api/system.int32.tostring?view=net-6.0)
     - [$ - 文字列補間](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/tokens/interpolated)
     - [@ - 逐語的識別子](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/tokens/verbatim)
       - [📘 GitHub : cs-con-here-document](https://github.com/winofsql/cs-con-here-document)
