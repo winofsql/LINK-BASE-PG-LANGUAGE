@@ -178,6 +178,8 @@
         - [GetAsync(String)](https://learn.microsoft.com/ja-jp/dotnet/api/system.net.http.httpclient.getstringasync?view=net-6.0#system-net-http-httpclient-getstringasync(system-string))
         - [📘 GitHub : Form : cs-web-access](https://github.com/winofsql/cs-web-access)
         - [📘 GitHub : cs-con-http-download](https://github.com/winofsql/cs-con-http-download)
+    - [🔷 **System.Net**](https://learn.microsoft.com/ja-jp/dotnet/api/system.net?view=net-6.0)
+      - [⛔ WebClient 非推奨](https://learn.microsoft.com/ja-jp/dotnet/api/system.net.webclient?view=net-6.0)
     - [🔷 **System.Data.Odbc**](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc?view=dotnet-plat-ext-6.0)
       - [OdbcConnection](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.odbc.odbcconnection?view=dotnet-plat-ext-6.0)
         - [📘 GitHub : cs-con-odbc-access-select](https://github.com/winofsql/cs-con-odbc-access-select)
