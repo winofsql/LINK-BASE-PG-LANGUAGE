@@ -215,6 +215,7 @@
       - [📘 GitHub : cs-tuple](https://github.com/winofsql/cs-tuple)
     - [インスタンス コンストラクター](https://learn.microsoft.com/ja-jp/dotnet/csharp/programming-guide/classes-and-structs/instance-constructors)
       - [📘 GitHub : cs-build-class](https://github.com/winofsql/cs-build-class)
+        - [📘 GitHub : class-settings](https://github.com/winofsql/subject-221102-class-settings)
       - [📘 GitHub : cs-class-extends](https://github.com/winofsql/cs-class-extends)
   
   - [C# の歴史](https://learn.microsoft.com/ja-jp/dotnet/csharp/whats-new/csharp-version-history)
