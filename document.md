@@ -262,4 +262,5 @@
         - [📘 GitHub : mysql-select-string-int](https://github.com/winofsql/java-mysql-select-string-int)
 
 - ### 📗 WSH + HTA
-  - [🔷 WScript オブジェクト](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364475(v=msdn.10))
+  - [🔷 WScript オブジェクト](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364475)
+  - [🔷 WshShell オブジェクト](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364436)
