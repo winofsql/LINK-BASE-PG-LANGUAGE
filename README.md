@@ -8,7 +8,7 @@
   - [📒&nbsp; **JavaScript**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#-javascript)
   - [📔&nbsp; **HTML**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#-html)
   - [📓&nbsp; **GAS**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#-google-apps-script)
-  - [📗&nbsp; **WSH + HTA**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md##user-content--wsh--hta)
+  - [📗&nbsp; **WSH + HTA**](https://github.com/winofsql/link-base-pg-language/blob/main/document.md#user-content--wsh--hta)
 
 - ### [💯&nbsp; オンラインツール](https://github.com/winofsql/link-base/blob/main/online-tool.md)
 
