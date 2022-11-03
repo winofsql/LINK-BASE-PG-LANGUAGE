@@ -1,7 +1,7 @@
 # 言語ドキュメント
-|  |  |  |  |  |  |  |  |
-| -- | -- | -- | -- | -- | -- | -- | -- |
-| [C#](#user-content--c) | [Java](#user-content--java) | [PHP](#user-content--php) | [jQuery](#user-content--jquery) | [JavaScript](#user-content--javascript) | [HTML](#user-content--html) | [GAS](#user-content--google-apps-script)
+|  |  |  |  |  |  |  |  |  |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| [C#](#user-content--c) | [Java](#user-content--java) | [PHP](#user-content--php) | [jQuery](#user-content--jquery) | [JavaScript](#user-content--javascript) | [HTML](#user-content--html) | [GAS](#user-content--google-apps-script) | WSH |
 
 - ### 📘 [php](https://www.php.net/manual/ja/)
   - [スーパーグローバル](https://www.php.net/manual/ja/language.variables.superglobals.php)
