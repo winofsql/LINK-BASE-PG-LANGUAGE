@@ -268,5 +268,5 @@
   - #### COM
     - [🔷 Excel.Application](https://learn.microsoft.com/ja-jp/office/vba/api/excel.application(object))
 
-  - #### [Jscript](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc392032(v=msdn.10))
-  - #### [VBScript](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc392480(v=msdn.10))
+  - #### [🔶 Jscript](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc392032(v=msdn.10))
+  - #### [🔶 VBScript](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc392480(v=msdn.10))
