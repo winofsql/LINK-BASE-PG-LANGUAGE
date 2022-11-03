@@ -261,5 +261,5 @@
       - [🔔 ResultSet](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/sql/ResultSet.html)
         - [📘 GitHub : mysql-select-string-int](https://github.com/winofsql/java-mysql-select-string-int)
 
-- ### 📗 WSH
+- ### 📗 WSH + HTA
   - [🔷 WScript オブジェクト](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364475(v=msdn.10))
