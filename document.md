@@ -268,6 +268,7 @@
   - #### COM
     - [🔷 Excel.Application](https://learn.microsoft.com/ja-jp/office/vba/api/excel.application(object))
       - [📘 GitHub : load-data.wsf](https://github.com/winofsql/wsh-vbs-excel-action/blob/main/load-data.wsf)
+        - [📘 GitHub : シート追加とシート間セルデータ転送](https://github.com/winofsql/wsh-vbs-excel-action/blob/main/load-data-add-sheet.wsf)
       - [📘 GitHub : load-data-js.hta](https://github.com/winofsql/wsh-vbs-excel-action/blob/main/hta/load-data-js.hta)
       - [📕 GitHub : SAMPLE DOC](https://github.com/winofsql/subject-221028-windows-program)
 
