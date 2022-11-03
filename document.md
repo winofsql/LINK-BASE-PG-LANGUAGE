@@ -265,5 +265,5 @@
   - [🔷 WScript オブジェクト](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364475(v=msdn.10))
   - [🔷 WshShell オブジェクト](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364436(v=msdn.10))
 
-- ### 📗 COM
-  - [🔷 Excel.Application](https://learn.microsoft.com/ja-jp/office/vba/api/excel.application(object))
+  - #### COM
+    - [🔷 Excel.Application](https://learn.microsoft.com/ja-jp/office/vba/api/excel.application(object))
