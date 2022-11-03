@@ -269,6 +269,7 @@
     - [🔷 Excel.Application](https://learn.microsoft.com/ja-jp/office/vba/api/excel.application(object))
       - [📘 GitHub : load-data.wsf](https://github.com/winofsql/wsh-vbs-excel-action/blob/main/load-data.wsf)
       - [📘 GitHub : load-data-js.hta](https://github.com/winofsql/wsh-vbs-excel-action/blob/main/hta/load-data-js.hta)
+      - [📕 GitHub : SAMPLE DOC](https://github.com/winofsql/subject-221028-windows-program)
 
   - #### [🔶 Jscript](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc392032(v=msdn.10))
   - #### [🔶 VBScript](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc392480(v=msdn.10))
