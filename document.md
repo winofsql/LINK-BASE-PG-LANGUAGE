@@ -271,6 +271,8 @@
         - [📘 GitHub : シート追加とシート間セルデータ転送](https://github.com/winofsql/wsh-vbs-excel-action/blob/main/load-data-add-sheet.wsf)
       - [📘 GitHub : load-data-js.hta](https://github.com/winofsql/wsh-vbs-excel-action/blob/main/hta/load-data-js.hta)
       - [📕 GitHub : SAMPLE DOC](https://github.com/winofsql/subject-221028-windows-program)
+    - [🔷 ADODB.Connection](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/connection-object-ado)
+    - [🔷 ADODB.Recordset](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/recordset-object-ado)
 
   - #### [🔶 Jscript](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc392032(v=msdn.10))
   - #### [🔶 VBScript](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc392480(v=msdn.10))
