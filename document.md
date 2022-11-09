@@ -201,7 +201,7 @@
 
   - [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
     - [単純型 (int は System.Int32 のエイリアス )](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/language-specification/types#simple-types)
-      - [📘 GitHub : 文字列 <=> 整数](https://github.com/winofsql/cs-con-string-int)
+      - [📘 GitHub : 文字列 <=> 整数](https://github.com/winofsql/cs-con-string-int) : [📕 replit : cs-string-int](https://replit.com/@sworc/cs-string-int#main.cs)
         - [Int32 構造体](https://learn.microsoft.com/ja-jp/dotnet/api/system.int32?view=net-6.0)
           - [int.Parse()](https://learn.microsoft.com/ja-jp/dotnet/api/system.int32.parse?view=net-6.0)
           - [int.ToString()](https://learn.microsoft.com/ja-jp/dotnet/api/system.int32.tostring?view=net-6.0)
