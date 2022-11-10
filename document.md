@@ -281,6 +281,10 @@
       - [Open メソッド](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/open-method-ado-recordset)
       - [Fields コレクション](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/fields-collection-ado)
         - [🔷 Field オブジェクト](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/field-object-ado)
+          - [Value プロパティ](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/value-property-ado)
+          - [Name プロパティ](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/name-property-ado)
+          - [Type プロパティ](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/type-property-ado)
+            - [DataTypeEnum](https://learn.microsoft.com/ja-jp/sql/ado/reference/ado-api/datatypeenum?view=sql-server-ver16)
 
   - #### [🔶 Jscript](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc392032(v=msdn.10))
   - #### [🔶 VBScript](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc392480(v=msdn.10))
