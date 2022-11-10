@@ -274,7 +274,9 @@
       - [📘 GitHub : load-data-js.hta](https://github.com/winofsql/wsh-vbs-excel-action/blob/main/hta/load-data-js.hta)
       - [📕 GitHub : SAMPLE DOC](https://github.com/winofsql/subject-221028-windows-program)
     - [🔷 ADODB.Connection](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/connection-object-ado)
-      - [DataTypeEnum](https://learn.microsoft.com/ja-jp/sql/ado/reference/ado-api/datatypeenum?view=sql-server-ver16)
+      - [Open](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/open-method-ado-connection)
+      - [OpenSchema メソッド](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/openschema-method-ado)
+        - [DataTypeEnum](https://learn.microsoft.com/ja-jp/sql/ado/reference/ado-api/datatypeenum?view=sql-server-ver16)
     - [🔷 ADODB.Recordset](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/recordset-object-ado)
 
   - #### [🔶 Jscript](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc392032(v=msdn.10))
