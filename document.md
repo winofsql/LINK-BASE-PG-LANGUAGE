@@ -276,6 +276,7 @@
     - [🔷 ADODB.Connection](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/connection-object-ado)
       - [Open メソッド](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/open-method-ado-connection)
       - [OpenSchema メソッド](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/openschema-method-ado)
+        - [SchemaEnum](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/schemaenum)
         - [DataTypeEnum](https://learn.microsoft.com/ja-jp/sql/ado/reference/ado-api/datatypeenum?view=sql-server-ver16)
         - [Jscript サンプル](https://ginpro.winofsql.jp/article/468854717.html)
     - [🔷 ADODB.Recordset](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/recordset-object-ado)
