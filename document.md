@@ -268,6 +268,8 @@
   - [🔷 WshShell オブジェクト](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364436(v=msdn.10))
   - [🔶 Shell オブジェクト](https://learn.microsoft.com/ja-jp/windows/win32/shell/shell)
 
+  - [Msxml2.ServerXMLHTTP](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms754586(v=vs.85))
+
   - #### COM
     - [🔷 Excel.Application](https://learn.microsoft.com/ja-jp/office/vba/api/excel.application(object))
       - [📘 GitHub : load-data.wsf](https://github.com/winofsql/wsh-vbs-excel-action/blob/main/load-data.wsf)
