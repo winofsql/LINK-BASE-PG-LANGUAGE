@@ -266,9 +266,6 @@
 - ### 📗 WSH + HTA
   - [🔷 WScript オブジェクト](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364475(v=msdn.10))
   - [🔷 WshShell オブジェクト](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364436(v=msdn.10))
-  - [🔶 Shell オブジェクト](https://learn.microsoft.com/ja-jp/windows/win32/shell/shell)
-
-  - [⭐ Msxml2.ServerXMLHTTP](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms754586(v=vs.85))
 
   - #### COM
     - [🔷 Excel.Application](https://learn.microsoft.com/ja-jp/office/vba/api/excel.application(object))
@@ -290,6 +287,10 @@
           - [Name プロパティ](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/name-property-ado)
           - [Type プロパティ](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/type-property-ado)
             - [DataTypeEnum](https://learn.microsoft.com/ja-jp/sql/ado/reference/ado-api/datatypeenum?view=sql-server-ver16)
+
+  - [🔶 Shell オブジェクト](https://learn.microsoft.com/ja-jp/windows/win32/shell/shell)
+
+  - [⭐ Msxml2.ServerXMLHTTP](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms754586(v=vs.85))
 
   - #### [🔶 Jscript](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc392032(v=msdn.10))
   - #### [🔶 VBScript](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc392480(v=msdn.10))
