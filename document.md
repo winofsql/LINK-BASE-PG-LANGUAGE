@@ -289,7 +289,7 @@
             - [DataTypeEnum](https://learn.microsoft.com/ja-jp/sql/ado/reference/ado-api/datatypeenum?view=sql-server-ver16)
 
     - [🔶 Shell オブジェクト](https://learn.microsoft.com/ja-jp/windows/win32/shell/shell)
-
+    - [🔶 FileSystemObject](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc428080(v=msdn.10)?redirectedfrom=MSDN)
     - [⭐ Msxml2.ServerXMLHTTP](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms754586(v=vs.85))
       - [WEBのファイルをコマンドラインからダウンロードする](https://logicalerror.seesaa.net/article/126457978.html)
 
