@@ -287,6 +287,7 @@
           - [Name プロパティ](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/name-property-ado)
           - [Type プロパティ](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/type-property-ado)
             - [DataTypeEnum](https://learn.microsoft.com/ja-jp/sql/ado/reference/ado-api/datatypeenum?view=sql-server-ver16)
+    - [🔷 ADODB.Stream](https://learn.microsoft.com/ja-jp/office/client-developer/access/desktop-database-reference/stream-object-ado)
 
     - [🔶 Shell オブジェクト](https://learn.microsoft.com/ja-jp/windows/win32/shell/shell)
     - [🔶 FileSystemObject](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc428080(v=msdn.10)?redirectedfrom=MSDN)
