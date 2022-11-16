@@ -195,6 +195,8 @@
         - [📘 GitHub : cs-con-mysql-01](https://github.com/winofsql/cs-con-mysql-01/blob/main/README.md) : ( ...10/26 )
         - ドライバ一覧 : HKEY_LOCAL_MACHINE\SOFTWARE\ODBC\ODBCINST.INI : ( ...10/26 )
     - [🔷 **System.Data.OleDb**](https://learn.microsoft.com/ja-jp/dotnet/api/system.data.oledb?view=dotnet-plat-ext-6.0)
+      - [📘 GitHub : cs-con-oledb-access-select](https://github.com/winofsql/cs-con-oledb-access-select)
+      - [📘 GitHub : cs-con-oledb-access-select2](https://github.com/winofsql/cs-con-oledb-access-select2)
     - [🔷 **System.Text**](https://learn.microsoft.com/ja-jp/dotnet/api/system.text?view=net-6.0)
       - [UTF8Encoding](https://learn.microsoft.com/ja-jp/dotnet/api/system.text.utf8encoding?view=net-6.0)
       - [Encoding](https://learn.microsoft.com/ja-jp/dotnet/api/system.text.encoding?view=net-6.0)
