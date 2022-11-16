@@ -201,7 +201,7 @@
     - [🔷 **System.Text.RegularExpressions**](https://learn.microsoft.com/ja-jp/dotnet/api/system.text.regularexpressions?view=net-6.0)
       - [Regex](https://learn.microsoft.com/ja-jp/dotnet/api/system.text.regularexpressions.regex?view=net-6.0)
     - [🔶 Newtonsoft.Json](https://www.newtonsoft.com/json/help/html/Methods_T_Newtonsoft_Json_JsonConvert.htm)
-      - [📘 GitHub : cs-con-web-json](https://github.com/winofsql/cs-con-web-json)
+      - [📘 GitHub : cs-con-web-json](https://github.com/winofsql/cs-con-web-json) : **※ WebClient 使用**
 
   - [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
     - [単純型 (int は System.Int32 のエイリアス )](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/language-specification/types#simple-types)
