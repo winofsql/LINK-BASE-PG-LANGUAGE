@@ -273,6 +273,8 @@
   - [🔷 WScript オブジェクト](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364475(v=msdn.10))
     - [Echo メソッド](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364402(v=msdn.10))
   - [🔷 WshShell オブジェクト](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364436(v=msdn.10))
+    - [Run メソッド](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364421(v=msdn.10))
+      - [WshShell.Run による外部プログラムの実行](https://winofsql.jp/VA003334/infoboard_page.php?mid=vbsguide&id=051215192026)
 
   - #### COM
     - [🔷 Excel.Application](https://learn.microsoft.com/ja-jp/office/vba/api/excel.application(object))
