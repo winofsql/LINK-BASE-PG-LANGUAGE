@@ -202,6 +202,8 @@
       - [Encoding](https://learn.microsoft.com/ja-jp/dotnet/api/system.text.encoding?view=net-6.0)
     - [🔷 **System.Text.RegularExpressions**](https://learn.microsoft.com/ja-jp/dotnet/api/system.text.regularexpressions?view=net-6.0)
       - [Regex](https://learn.microsoft.com/ja-jp/dotnet/api/system.text.regularexpressions.regex?view=net-6.0)
+    - [🔶 Excel.Application](https://learn.microsoft.com/ja-jp/office/vba/api/excel.application(object))
+      - [📘 GitHub : cs-con-excel-new](https://github.com/winofsql/cs-con-excel-new)
     - [🔶 Newtonsoft.Json](https://www.newtonsoft.com/json/help/html/Methods_T_Newtonsoft_Json_JsonConvert.htm)
       - [📘 GitHub : cs-con-web-json](https://github.com/winofsql/cs-con-web-json) : **※ WebClient 使用**
     - [🔶 DotNetZip]([https://www.newtonsoft.com/json/help/html/Methods_T_Newtonsoft_Json_JsonConvert.htm](https://documentation.help/DotNetZip/6c55db80-ec01-c606-be38-2ea91a64df15.htm))
