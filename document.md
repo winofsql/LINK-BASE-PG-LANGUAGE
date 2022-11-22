@@ -208,8 +208,6 @@
       - [📕 replit : cs-con-DotNetZip](https://replit.com/@sworc/cs-con-DotNetZip#main.cs)
         - [📘 GitHub : cs-con-DotNetZip](https://github.com/winofsql/cs-con-DotNetZip/blob/main/README.md)
 
-https://replit.com/@sworc/cs-con-DotNetZip#main.cs
-
   - [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
     - [単純型 (int は System.Int32 のエイリアス )](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/language-specification/types#simple-types)
       - [📘 GitHub : 文字列 <=> 整数](https://github.com/winofsql/cs-con-string-int) : [📕 replit : cs-string-int](https://replit.com/@sworc/cs-string-int#main.cs)
