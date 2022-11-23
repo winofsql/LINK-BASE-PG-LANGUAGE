@@ -207,7 +207,7 @@
     - [🔶 Newtonsoft.Json](https://www.newtonsoft.com/json/help/html/Methods_T_Newtonsoft_Json_JsonConvert.htm)
       - [📕 replit : cs-con-web-json](https://replit.com/@sworc/cs-con-web-json#main.cs) 
         - [📘 GitHub : cs-con-web-json](https://github.com/winofsql/cs-con-web-json) : **※ WebClient 使用**
-    - [🔶 DotNetZip]([https://www.newtonsoft.com/json/help/html/Methods_T_Newtonsoft_Json_JsonConvert.htm](https://documentation.help/DotNetZip/6c55db80-ec01-c606-be38-2ea91a64df15.htm))
+    - [🔶 DotNetZip](https://documentation.help/DotNetZip/6c55db80-ec01-c606-be38-2ea91a64df15.htm)
       - [📕 replit : cs-con-DotNetZip](https://replit.com/@sworc/cs-con-DotNetZip#main.cs)
         - [📘 GitHub : cs-con-DotNetZip](https://github.com/winofsql/cs-con-DotNetZip/blob/main/README.md)
 
