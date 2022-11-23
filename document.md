@@ -274,6 +274,9 @@
         - [📘 GitHub : mysql-select-string-int](https://github.com/winofsql/java-mysql-select-string-int)
         - [📕 replit : sqlite3-select](https://replit.com/@sworc/java-sqlite3-select#Main.java)
           - [📕 replit : SQLite3 操作](https://replit.com/@sworc/SQLite3-select#main.sql)
+    - [🔶 Excel : Apache POI](https://poi.apache.org/apidocs/4.1/org/apache/poi/xssf/usermodel/XSSFWorkbook.html)
+        - [📕 replit : java-poi-excel-newbook-cell](https://replit.com/@sworc/java-poi-excel-newbook-cell#Main.java)
+          - [📘 GitHub : java-excel-newbook-cell](https://github.com/winofsql/java-excel-newbook-cellt)
 
 - ### 📗 WSH + HTA
   - [🔷 WScript オブジェクト](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364475(v=msdn.10))
