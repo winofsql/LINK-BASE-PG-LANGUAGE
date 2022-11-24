@@ -129,6 +129,7 @@
   - [C#入門 ( とほほ )](https://www.tohoho-web.com/ex/c-sharp.html)
     - [📘 GitHub : cs-basic](https://github.com/winofsql/subject-1021-java-csharp-basic/blob/main/Program.cs)
   - #### [Microsoft C# API](https://learn.microsoft.com/ja-jp/dotnet/api/?view=net-6.0)
+    - [📕 replit :dotnet-list-package](https://replit.com/@sworc/dotnet-list-package#main.cs)
     - [🔷 **System**](https://learn.microsoft.com/ja-jp/dotnet/api/system?view=net-6.0)
       - [Array](https://learn.microsoft.com/ja-jp/dotnet/api/system.array?view=net-6.0)
         - [Array.Sort メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.array.sort?view=net-6.0)
