@@ -225,7 +225,7 @@
       - [📕 replit : cs-function-lambda-param](https://replit.com/@sworc/cs-function-lambda-param#main.cs)
     - [タプル](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/builtin-types/value-tuples)
       - [📘 GitHub : cs-con-tuple](https://github.com/winofsql/cs-con-tuple/blob/main/Program.cs)
-      - [📘 GitHub : cs-tuple](https://github.com/winofsql/cs-tuple)
+      - [📘 GitHub : cs-form-tuple](https://github.com/winofsql/cs-form-tuple)
     - [インスタンス コンストラクター](https://learn.microsoft.com/ja-jp/dotnet/csharp/programming-guide/classes-and-structs/instance-constructors)
       - [📘 GitHub : cs-build-class](https://github.com/winofsql/cs-build-class)
         - [📘 GitHub : class-settings](https://github.com/winofsql/subject-221102-class-settings)
