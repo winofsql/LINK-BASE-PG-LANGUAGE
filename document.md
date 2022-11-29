@@ -130,6 +130,7 @@
     - [📘 GitHub : cs-basic](https://github.com/winofsql/subject-1021-java-csharp-basic/blob/main/Program.cs)
   - #### [Microsoft C# API](https://learn.microsoft.com/ja-jp/dotnet/api/?view=net-6.0)
     - [📕 replit : dotnet-list-package](https://replit.com/@sworc/dotnet-list-package#main.cs)
+    - [📕 replit : cs-con-zero-padding](https://replit.com/@sworc/cs-con-zero-padding#main.cs)
     - [🔷 **System**](https://learn.microsoft.com/ja-jp/dotnet/api/system?view=net-6.0)
       - [Array](https://learn.microsoft.com/ja-jp/dotnet/api/system.array?view=net-6.0)
         - [Array.Sort メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.array.sort?view=net-6.0)
