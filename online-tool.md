@@ -2,7 +2,7 @@
 
 - ### 🍉 [Replit](https://replit.com/)
 
-- ### 🍓 [[Paiza.io](https://paiza.io/ja)](https://replit.com/)
+- ### 🍓 [Paiza.io](https://paiza.io/ja)
 
 
 - #### [写真素材 ( ぱくたそ )](https://www.pakutaso.com/)
