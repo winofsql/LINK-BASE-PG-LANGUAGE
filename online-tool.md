@@ -10,7 +10,7 @@
 
 <br>
 
-- ### 🎉 [ChatGPT](https://chat.openai.com/)
+- ### 🍎 [ChatGPT](https://chat.openai.com/)
 
 <br>
 
