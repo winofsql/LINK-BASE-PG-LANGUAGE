@@ -1,6 +1,6 @@
 # オンラインツール
 
-- ### [Replit](https://replit.com/)
+- ### 🍉 [Replit](https://replit.com/)
 
 - #### [写真素材 ( ぱくたそ )](https://www.pakutaso.com/)
   - #### [利用規約](https://www.pakutaso.com/userpolicy.html)
