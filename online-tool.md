@@ -1,14 +1,14 @@
 # オンラインツール
 
 - ### [Replit](https://replit.com/)
-- #### [正規表現 大](https://regex101.com/) / [正規表現 小](https://php-regexp.a-zumi.net/preg_replace)
+
 - #### [写真素材 ( ぱくたそ )](https://www.pakutaso.com/)
   - #### [利用規約](https://www.pakutaso.com/userpolicy.html)
 - #### [絵文字](http://lightbox.on.coocan.jp/html/utf8tool.php)
 
 |    |    |
 | -- | -- |
-| [[正規表現 大](https://regex101.com/) | [正規表現 小](https://php-regexp.a-zumi.net/preg_replace) | 
+| [正規表現 大](https://regex101.com/) | [正規表現 小](https://php-regexp.a-zumi.net/preg_replace) | 
 
 |    |    |    |    |    | 
 | -- | -- | -- | -- | -- | 
