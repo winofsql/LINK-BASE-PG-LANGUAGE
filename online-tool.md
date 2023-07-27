@@ -2,7 +2,6 @@
 
 - ### [Replit](https://replit.com/)
 - #### [正規表現 大](https://regex101.com/) / [正規表現 小](https://php-regexp.a-zumi.net/preg_replace)
-- #### [paiza 講座一覧](https://paiza.jp/works/courses)
 - #### [写真素材 ( ぱくたそ )](https://www.pakutaso.com/)
   - #### [利用規約](https://www.pakutaso.com/userpolicy.html)
 - #### [絵文字](http://lightbox.on.coocan.jp/html/utf8tool.php)
@@ -19,3 +18,5 @@
 |    |
 | -- |
 | [Yahoo! 天気 : 大阪](https://weather.yahoo.co.jp/weather/jp/27/6200.html) |
+
+- #### [paiza 講座一覧](https://paiza.jp/works/courses)
