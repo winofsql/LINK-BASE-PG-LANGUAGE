@@ -2,6 +2,9 @@
 
 - ### 🍉 [Replit](https://replit.com/)
 
+- ### 🍓 [[Paiza.io](https://paiza.io/ja)](https://replit.com/)
+
+
 - #### [写真素材 ( ぱくたそ )](https://www.pakutaso.com/)
   - #### [利用規約](https://www.pakutaso.com/userpolicy.html)
 - #### [絵文字](http://lightbox.on.coocan.jp/html/utf8tool.php)
