@@ -237,10 +237,10 @@
   - [DOBON.NET](http://dobon.net/vb/dotnet/internet/index.html) : ( **VBを含むので注意** )
 
 - ### 📗 Java
-  <!-- - [Java 基礎](https://java-code.jp/) -->
   - [とほほ Java](https://www.tohoho-web.com/java/)
     - [📘 GitHub : java-basic](https://github.com/winofsql/subject-1021-java-csharp-basic/blob/main/Program.java)
-  - [Java への道](http://www.javaroad.jp/)
+  - [Java 基礎](https://java-code.jp/)
+  <!-- - [Java への道](http://www.javaroad.jp/) -->
   - [Java(tm) Platform, Standard Edition 8](https://docs.oracle.com/javase/jp/8/docs/api/)
     - [🔷 java.lang](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/lang/package-summary.html)
       - [🔔 String](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/lang/String.html)
