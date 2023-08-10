@@ -238,7 +238,7 @@
 
 - ### 📗 Java
   - [とほほ Java](https://www.tohoho-web.com/java/)
-  - [Java 基礎](https://java-code.jp/)
+  <!-- - [Java 基礎](https://java-code.jp/) -->
     - [📘 GitHub : java-basic](https://github.com/winofsql/subject-1021-java-csharp-basic/blob/main/Program.java)
   - [Java への道](http://www.javaroad.jp/)
   - [Java(tm) Platform, Standard Edition 8](https://docs.oracle.com/javase/jp/8/docs/api/)
