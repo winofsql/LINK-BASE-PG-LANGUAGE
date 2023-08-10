@@ -240,6 +240,8 @@
   - [とほほ Java](https://www.tohoho-web.com/java/)
     - [📘 GitHub : java-basic](https://github.com/winofsql/subject-1021-java-csharp-basic/blob/main/Program.java)
   - [Java 基礎](https://java-code.jp/)
+    - Scanner( 入力と Unix コマンド と bash コマンド )
+      - [📕 replit : java-stdin](https://replit.com/@sworc/java-stdin)
   <!-- - [Java への道](http://www.javaroad.jp/) -->
   - [Java(tm) Platform, Standard Edition 8](https://docs.oracle.com/javase/jp/8/docs/api/)
     - [🔷 java.lang](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/lang/package-summary.html)
