@@ -242,6 +242,8 @@
   - [Java 基礎](https://java-code.jp/)
     - Scanner( 入力と Unix コマンド と bash コマンド )
       - [📕 replit : java-stdin](https://replit.com/@sworc/java-stdin)
+    - Swing( 画像を使った日本語表示とイベント )
+      - [📕 replit : java-swing-basic1](https://replit.com/@sworc/java-swing-basic1)
   <!-- - [Java への道](http://www.javaroad.jp/) -->
   - [Java(tm) Platform, Standard Edition 8](https://docs.oracle.com/javase/jp/8/docs/api/)
     - [🔷 java.lang](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/lang/package-summary.html)
