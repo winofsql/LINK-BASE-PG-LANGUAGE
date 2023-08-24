@@ -286,6 +286,8 @@
         - [📕 replit : java-poi-excel-newbook-cell](https://replit.com/@sworc/java-poi-excel-newbook-cell#Main.java)
           - [📘 GitHub : java-excel-newbook-cell](https://github.com/winofsql/java-excel-newbook-cellt)
 
+    - [🔶 opencsv : readMap() ](https://javadoc.io/static/com.opencsv/opencsv/5.8/index.html?com/opencsv/CSVReaderHeaderAware.html)
+
 - ### 📗 WSH + HTA
   - [🔷 WScript オブジェクト](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364475(v=msdn.10))
     - [Echo メソッド](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364402(v=msdn.10))
