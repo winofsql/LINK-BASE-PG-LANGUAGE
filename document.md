@@ -289,9 +289,9 @@
     - [🔶 opencsv : readMap() ](https://javadoc.io/static/com.opencsv/opencsv/5.8/index.html?com/opencsv/CSVReaderHeaderAware.html)
       - [📕 replit : java-csv-to-console](https://replit.com/@sworc/java-csv-to-console)
       - [📕 replit : java-csv-to-sqlite3](https://replit.com/@sworc/java-csv-to-sqlite3)
-    - [🔶 opencsv : CSVWriterBuilder() ](https://javadoc.io/static/com.opencsv/opencsv/5.8/index.html?com/opencsv/CSVWriterBuilder.html)
-      - [ResultSet から取り出す](https://opencsv.sourceforge.net/#from_a_database_table)
-        - [📕 replit : java-sqlite3-to-csv](https://replit.com/@sworc/java-sqlite3-to-csv)
+      - [🔶 opencsv : CSVWriterBuilder() ](https://javadoc.io/static/com.opencsv/opencsv/5.8/index.html?com/opencsv/CSVWriterBuilder.html)
+        - [ResultSet から取り出す](https://opencsv.sourceforge.net/#from_a_database_table)
+          - [📕 replit : java-sqlite3-to-csv](https://replit.com/@sworc/java-sqlite3-to-csv)
 
 - ### 📗 WSH + HTA
   - [🔷 WScript オブジェクト](https://learn.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364475(v=msdn.10))
