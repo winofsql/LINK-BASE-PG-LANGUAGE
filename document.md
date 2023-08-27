@@ -281,7 +281,7 @@
       - [🔔 ResultSet](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/sql/ResultSet.html)
         - [📘 GitHub : mysql-select-string-int](https://github.com/winofsql/java-mysql-select-string-int)
         - [📕 replit : java-sqlite3-select-01](https://replit.com/@sworc/java-sqlite3-select-01)
-          - [📕 replit : SQLite3 操作](https://replit.com/@sworc/SQLite3-select#main.sql)
+          - [📕 replit : SQLite3 操作](https://replit.com/@sworc/SQLite3-select-import)
         - [📕 replit : java-sqlite3-check : 操作とcreate文作成](https://replit.com/@sworc/java-sqlite3-check)
         - [📕 replit : java-sqlite3-execute-01 : create と insert](https://replit.com/@sworc/java-sqlite3-execute-01)
     - [🔶 Excel : Apache POI](https://poi.apache.org/apidocs/4.1/org/apache/poi/xssf/usermodel/XSSFWorkbook.html)
