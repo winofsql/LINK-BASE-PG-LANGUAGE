@@ -154,6 +154,7 @@
     - [🔷 **System.Collections.Generic**](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic?view=net-6.0)
       - [🔔 List&lt;T&gt;](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.list-1?view=net-6.0) / [MS-Run ( code-try-4 )](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.list-1?view=net-6.0#code-try-4)
         - [📕 replit : list-generic](https://replit.com/@sworc/list-generic#Program.cs)
+        - [📕 replit : cs-list](https://replit.com/@sworc/cs-list#Program.cs)
         - [📕 replit : cs-list-array](https://replit.com/@sworc/cs-list-array#main.cs)
         - [Add(T) メソッド](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.list-1.add?view=net-6.0)
       - [🔔 Dictionary&lt;TKey,TValue&gt;](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic.dictionary-2?view=net-6.0)
